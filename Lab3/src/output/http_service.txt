@@ -1,0 +1,8 @@
+Elected leader's port: 56367
+Starting server on 127.0.0.1:56363
+['Tux']
+127.0.0.1 - - [30/Apr/2024 12:36:21] "POST /invalidate HTTP/1.1" 200 -
+OrderNumber: 2918
+Message: "Order processed successfully"
+
+127.0.0.1 - - [30/Apr/2024 12:36:21] "POST /orders HTTP/1.1" 200 -

@@ -1,0 +1,6 @@
+Could not connect to 56367 on 3
+Could not connect to 56365 on 1
+The Order server is running on port: 56366
+Order received for toy: Dog and for quantity: 1
+Order received for toy: Lion and for quantity: 1
+Order received for toy: Elephant and for quantity: 1

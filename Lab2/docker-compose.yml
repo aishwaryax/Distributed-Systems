@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  frontend:
+    image: frontend
+    ports:
+      - "56363:56363"
+    depends_on:
+      - order
+      - catalog
+    restart: always
+    build: ./src/frontend
+  order:
+    image: order
+    ports:
+      - "56362:56362"
+    depends_on:
+      - catalog
+    build: ./src/server/order
+    restart: always
+    volumes:
+      - ./src/server/order:/order
+  catalog:
+    image: catalog
+    ports:
+      - "56361:56361"
+    build: ./src/server/catalog
+    restart: always
+    volumes:
+      - ./src/server/catalog:/catalog

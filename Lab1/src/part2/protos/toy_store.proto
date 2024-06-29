@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package toystore;
+
+message Request {
+  string ItemName = 1;
+}
+
+message BuyResponse {
+  int32 Response = 1;
+}
+
+message QueryResponse {
+  double Cost = 1;
+  int32 Stock = 2;
+} 
+
+service ToyStore {
+  rpc Query(Request) returns (QueryResponse);
+  rpc Buy(Request) returns (BuyResponse);
+}

@@ -1,0 +1,2010 @@
+The Catalog server is running.
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Clear cache status :  True
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Order with Item Name Dog and quantity 1
+Processing Order with Item Name Dog and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tux
+Processing Query with Item Name Tux
+Received Order with Item Name Tux and quantity 1
+Processing Order with Item Name Tux and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Horse
+Processing Query with Item Name Horse
+Received Order with Item Name Horse and quantity 1
+Processing Order with Item Name Horse and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name ElephaNT
+Processing Query with Item Name ElephaNT
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Python
+Processing Query with Item Name Python
+Received Order with Item Name Python and quantity 1
+Processing Order with Item Name Python and quantity 1
+Clear cache status :  True
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Order with Item Name Giraffe and quantity 1
+Processing Order with Item Name Giraffe and quantity 1
+Clear cache status :  True
+Received Query with Item Name Leopard
+Processing Query with Item Name Leopard
+Received Order with Item Name Leopard and quantity 1
+Processing Order with Item Name Leopard and quantity 1
+Clear cache status :  True
+Received Query with Item Name Whale
+Processing Query with Item Name Whale
+Received Order with Item Name Whale and quantity 1
+Processing Order with Item Name Whale and quantity 1
+Clear cache status :  True
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Fox
+Processing Query with Item Name Fox
+Received Order with Item Name Fox and quantity 1
+Processing Order with Item Name Fox and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Zebra
+Processing Query with Item Name Zebra
+Received Order with Item Name Zebra and quantity 1
+Processing Order with Item Name Zebra and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Bear
+Processing Query with Item Name Bear
+Received Order with Item Name Bear and quantity 1
+Processing Order with Item Name Bear and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dog
+Processing Query with Item Name Dog
+Received Query with Item Name Tiger
+Processing Query with Item Name Tiger
+Received Order with Item Name Tiger and quantity 1
+Processing Order with Item Name Tiger and quantity 1
+Clear cache status :  True
+Received Query with Item Name Dolphin
+Processing Query with Item Name Dolphin
+Received Order with Item Name Dolphin and quantity 1
+Processing Order with Item Name Dolphin and quantity 1
+Clear cache status :  True
+Received Query with Item Name INVALID_TOY
+Processing Query with Item Name INVALID_TOY
+Received Query with Item Name Eagle
+Processing Query with Item Name Eagle
+Received Order with Item Name Eagle and quantity 1
+Processing Order with Item Name Eagle and quantity 1
+Clear cache status :  True
+Clear cache status :  True
+Received Query with Item Name Giraffe
+Processing Query with Item Name Giraffe
+Received Query with Item Name Lion
+Processing Query with Item Name Lion
+Received Order with Item Name Lion and quantity 1
+Processing Order with Item Name Lion and quantity 1
+Clear cache status :  True
+Received Query with Item Name Elephant
+Processing Query with Item Name Elephant
+Received Order with Item Name Elephant and quantity 1
+Processing Order with Item Name Elephant and quantity 1
+Clear cache status :  True

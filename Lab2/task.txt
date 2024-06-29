@@ -1,0 +1,112 @@
+
+
+Goals
+    1. Distributed => multi-tier architecture and microservices
+    2. virtualized applications.
+    3. interfaces for web applications.
+
+Learning
+    1. REST API server
+    2. Peformance testing for Distributed applications
+    3. containerize your micro-service and manage an application consisting of multiple containers.
+    4.  test a distributed application.
+
+Part 1:
+
+    server
+    ------
+
+    1. Front end => single microservice
+
+        It will have 2 REST API's 
+
+        1. Query = GET
+
+            GET /products/<product_name>
+            if successful return data object
+            else return error message in json format
+
+
+        2. Buy = POST
+
+            POST /orders
+            Request would have a JSON body
+            if successful return data object
+            else return error message in json format
+
+        Listen Request on port 5000, 
+        listen to Request and assign them to threadpool (can use builtin threadpool now)
+        Cannot use FLASK
+    
+     2. Back end => Catelog + Order
+
+        Catelog Service: => handles the DB read and writes
+            1. catalog DB -> in memory and CSV (this is done for presistance)
+            2. When service starts up initialize itself with the data from this text or CSV file
+            3. Use all toys mentioned in lab 1 and include fox or python
+            4. Query requests will simply read the catalog, 
+            5. Buy requests will be sent to the order service, which will then contact the catalog service to update (decrease) the stock of items in the catalog. These updates should be written out to the catalog on disk (immediately or periodically, depending on your design).
+            6. Catalog service -> exposes internal methods (2 methods) for QUERY API and ORDER SERVICE.
+            6. It should have threadpool and use synchronization (can be done using locks, read and write locks) to protect reads and updates to the catalog
+            7. Methods
+
+                1. find_toy(toy_name): 
+                    1. Called from the QUERY API from FE
+                    2. If toy present return => { "name": "Tux", "price": 15.99, "quantity": 100}
+                    3. else return -1
+
+                2. process_order(toy_name, expected_quantity):
+                    1. Called from ORDER SERVICE from be
+                    2. If toy present and expected_quantity < toy's quantity update
+                        1. Update the toy's quantity in DB
+                        2. return response
+                    3. else return -1
+
+        
+        Order Service: => 
+            1. Buy request on FE is forwarded to Order Service, thus interacts with Catelog service
+            2. If successful then return to FE ie back to BUY API the order_id, order_id starts from 0 and is incremental
+            3. Needs to maintain order log => (order number, product name, and quantity), could be a CSV file 
+            4. This would have 1 method for BUY API to call
+
+                1. place_order(toy_name, expected_quantity)
+                    1. called from FE BUY API
+                    2. call process_order method in Catalog Service, if it returns -1 then give error back to API
+                    3. Else 
+                        1. add to order log
+                        2. increment order_id
+                        3. send response back to BUY API
+
+
+    Client
+    -----
+
+    1. Establish HTTP connection
+    2. Randomly query item, if quantity > 0 then with prob p send another request p = [0,1]
+    3. Sequency of query followed by order using p
+    4. all requests from 1 client connections should be handled by 1 thread on FE
+    5. Make sure that the thread pool at the server is large enough to handle all active client and their sessions without starving.
+
+
+Part 2: Containerize Your Application
+    1. Deploy all components in 1 container 
+    2. First, create a docker file for each of the three microservices that you implemented in part 1. Verify that they build and run without issue.
+    3. After that, write a Docker compose file that can bring up (or tear down) all three services using one docker-compose up (or docker-compose down) command.
+    4. Consider IP address and routing since container will have different IP than hosts
+        (HINT: you can set environment variables when building a Docker image or in a Docker compose file).
+
+
+
+------------------------
+root
+----front-end (mitalee)
+----server (aishwarya)
+    ----catalog (aishwarya)
+    ----order (mitalee)
+----client (aishwarya)
+
+-can use gRPC for client to server communication
+-threadpool for concurrency
+-read and write locks
+-python and http libraries for client
+-gRPC for server code (can refer lab 1)

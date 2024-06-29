@@ -1,0 +1,16 @@
+Could not connect to 56367 on 3
+Could not connect to 56365 on 1
+Cannot connect to replica:  56367
+Error while connecting to replica:  <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:56367: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-04-30T12:34:12.551552-04:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:56367: Failed to connect to remote host: Connection refused"}"
+>
+Cannot connect to replica:  56365
+Error while connecting to replica:  <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:56365: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:56365: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-04-30T12:34:12.551921-04:00"}"
+>
+The Order server is running on port: 56366
+Synced database with replica

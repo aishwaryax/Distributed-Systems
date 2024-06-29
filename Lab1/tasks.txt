@@ -1,0 +1,71 @@
+Part 1:
+
+
+    1. design distributed client-server applications
+    2. design a concurrent networked server application
+    3. design your own thread pool for servers and use thread pool abstractions provided by major languages
+    4. design distributed applications using a low-level abstraction of socket communication as well as a high-level abstraction of remote procedure calls.
+    5. measure the performance of a distributed application
+
+    Design requirements:
+
+    1. The server component should implement a single method "Query", which takes a "single string argument" that specifies the name of the toy.  
+        def Query(toyName: string): -> float
+            # cost if item found and has count > 0
+            # -1 if item not found
+            # 0 if no item left 
+
+        can use 1 hashMaps one that 0 {"toyName": [currentPrice, countInStock]}
+
+    2. The client component should connect to the server using a socket connection. It should construct a message in the form of a buffer specifying the method name (e.g., string "Query") and arguments ("toyName"). 
+        client -> server (using socket + message of type buffer)
+        
+        Server returns 
+        The return value is another buffer containing the cost of the item or an error code such as -1 and 0, as noted above.
+
+    3. The server should listen on a network port of your choice (e.g., a high port number such as 8888), accept incoming client requests over sockets, and assign this request to an idle thread in the thread pool. 
+
+        Need to obtain locks to avoid deadlock/other error
+    
+    4. Main part -> creating custom thread pool
+        1. The thread pool should create a static number of threads that is configurable at start time, and these threads wait for requests. 
+        2. The main server thread should accept requests over a socket, insert them into a request queue, and notify the thread pool, which causes one of the idle threads to be assigned this request for processing. 
+        3. Your design should include the 
+            1. request queue (cannot be a thread safe queue)
+            2. threading code for the thread pool
+            3. any synchronization needed to insert or remove requests from the queue and notify threads. (using locks, semaphore, or other suitable primitive)
+
+The client should be a for-loop that sequentially issues query requests to the server. You design should be able to use multiple client processes to make concurrent requests to the server, thereby exercising the thread pool.
+
+
+Part 2
+    1. implement online toy store using inbuilt gRPC 
+
+    2. Server side
+        1 Methods
+            a. Query(itemName)
+                input: itemName (string)
+                output:the cost of the item (int) and real-time stock (int) indicating how many are in stock.
+            b. Buy(itemName) 
+                input: itemName (string)
+                buys the item and reduces the stock of that item by 1. 
+                output: 
+                    1 if success, 
+                    0 if the item is not in stock and 
+                    -1 if an invalid item name is specified.
+        2. Note: use protobuf to create appropriate message structures for arguments and return values of both calls and design rpc methods as noted above.
+        3. catalog should have 4 toys - Tux, Whale, elephany, dolphin
+        4. Use built in thread pool
+        5. max limit on the maximum number of concurrent RPCs when you start your server
+        6. Use synchronization methods on the product catalog (since this is a shared DS in-memeory)
+        7. error handling
+        8. design a concurrent networked server application
+    
+    3. Client Side
+        1. component should use gRPC to make queries and buy calls to the server. 
+        2. for loop that sequentially issues either buy or query requests. 
+        3. allow multiple client processes to make concurrent requests to the server
+
+Generic
+
+1. Update readme file with how tasks were divided

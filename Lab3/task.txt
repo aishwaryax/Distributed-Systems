@@ -1,0 +1,45 @@
+1. Fix previous error of order service
+2. Do we want to change to flask API service?
+3. New toys (at least 15), initial stock value = 100 with restock option. The catalog service should check remaining quantity of every toy every 10 seconds, if a toy is out of stock the catalog service will restock it to 100.
+4. toy request and toy order can use different connection. (should both toy be same), same connection 
+5. Before exiting, the client will retrieve the order information of each order that was made using the order query request, and check whether the server reply matches the locally stored order information.
+
+
+Part 1:
+
+API <-> cache <-> FE 
+cache policy = LRU
+cache size = 10 
+
+    1. Toy request
+        1. It will use 1st cached response 
+        2. If not then query the catalog service and store the returned response of catalog service in the cache
+
+    2. Buy order
+        1. Invalidate the cache -> ie remove the key-value pair from cache
+        2. restock if required and save the new response in cache
+
+Part 2:
+
+    1. Replication - to prevent failure
+        1. replicate the order service - 3 order services with their own DBs
+            1. each will have unique_id and unique port number - these would be in config file
+            2. Should have their own database file
+            3. we will do health checks to see which server is alive from FE to Order - (add method in protos) isAlive
+            4. Whenever a buy request comes leader node will call another method - (add method in protos) replicateOrder which will replicate the buy update to other node's database
+            5. Notify server about leader election - (add method in protos)  newLeaderElection
+
+
+Part 3:
+
+    1. Fault tolerance
+        1. FE will find if the leader is unresponsive and do the leader election
+        2. Ensure that crashed replica is back online, for that when it gets online sync with Db of other replicas
+        3. Leader will fail and once replica will fail
+
+Part 4
+
+    1. Testing for every micro service
+    2. Deply on AWS m5a.xlarge, server 
+    3. change probability logic
+

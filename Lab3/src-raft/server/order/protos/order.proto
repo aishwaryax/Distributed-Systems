@@ -1,0 +1,92 @@
+syntax = "proto3";
+
+package order;
+
+message BuyRequest {
+  string ToyName = 3;
+  int32 ToyQuantity = 2;
+}
+
+message BuyResponse {
+  int32 OrderNumber = 2;
+  string Message = 1;
+}
+
+message GetRequest {
+  int32 OrderNumber = 1;
+}
+
+message GetResponse {
+  int32 OrderNumber = 1;
+  string ToyName = 2;
+  int32 ToyQuantity = 3;
+}
+
+message EmptyRequest {
+}
+
+message IsAliveResponse {
+  int32 status = 1;
+  int32 orderServersId = 2;
+  string message = 3;
+}
+
+message NotifyReplicaRequest{
+  int32 orderServersId = 2;
+}
+
+message BoolResponse{
+  bool IsSuccess = 1;
+}
+
+message SyncData {
+  repeated GetResponse OrderRequests = 1;
+}
+
+message DataToSyncRequest {
+  int32 pendingOrderStartId = 1;
+}
+
+
+message LogEntry {
+  int32 Term = 1;
+  string Command = 2;
+}
+
+message AppendEntriesRequest {
+  int32 Term = 1;
+  int32 LeaderId = 2;
+  int32 PrevLogIndex = 3;
+  int32 PrevLogTerm = 4;
+  repeated LogEntry Entries = 5;
+  int32 LeaderCommit = 6;
+}
+
+message AppendEntriesResponse {
+  int32 Server = 1;
+  int32 Term = 2;
+  bool IsSuccess = 3;
+  int32 Index = 4;
+}
+
+message RequestLogsRequest {
+  int32 Index = 1;
+  int32 Server = 2;
+}
+
+message CommitIndexRequest {
+  int32 Index = 1;
+}
+
+service Order {
+  rpc buyOrder(BuyRequest) returns (BuyResponse);
+  rpc GetOrder(GetRequest) returns (GetResponse);
+  rpc IsAlive(EmptyRequest) returns (IsAliveResponse);
+  rpc NotifyReplica(NotifyReplicaRequest) returns (BoolResponse);
+  rpc SynchronizeOrder(SyncData) returns (BoolResponse);
+  rpc IsLeader(EmptyRequest) returns (BoolResponse);
+  rpc DataToSync(DataToSyncRequest) returns (SyncData);
+  rpc AppendEntries(AppendEntriesRequest) returns (AppendEntriesResponse);
+  rpc RequestLogs(RequestLogsRequest) returns (BoolResponse);
+  rpc CommitIndex(CommitIndexRequest) returns (BoolResponse);
+}

@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package catalog;
+
+message BuyRequest {
+  string ItemName = 1;
+  int32 Quantity = 2;
+}
+
+message QueryRequest {
+  string ItemName = 1;
+}
+
+message BuyResponse {
+  int32 Response = 1;
+}
+
+message QueryResponse {
+  double Cost = 1;
+  int32 Stock = 2;
+  string Name = 3;
+} 
+
+service Catalog {
+  rpc Query(QueryRequest) returns (QueryResponse);
+  rpc Buy(BuyRequest) returns (BuyResponse);
+}

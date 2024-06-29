@@ -1,0 +1,3325 @@
+Query 0 toyname: Fox
+Making a buy request for toy: Fox
+Request 0: Order for Fox of quantity 1 placed successfully.
+Query 1 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 1: Order for Eagle of quantity 1 placed successfully.
+Query 2 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 2: Order for Leopard of quantity 1 placed successfully.
+Query 3 toyname: Whale
+Making a buy request for toy: Whale
+Request 3: Order for Whale of quantity 1 placed successfully.
+Query 4 toyname: Whale
+Making a buy request for toy: Whale
+Request 4: Order for Whale of quantity 1 placed successfully.
+Query 5 toyname: Horse
+Making a buy request for toy: Horse
+Request 5: Order for Horse of quantity 1 placed successfully.
+Query 6 toyname: Tux
+Making a buy request for toy: Tux
+Request 6: Order for Tux of quantity 1 placed successfully.
+Query 7 toyname: Dog
+Making a buy request for toy: Dog
+Request 7: Order for Dog of quantity 1 placed successfully.
+Query 8 toyname: Whale
+Making a buy request for toy: Whale
+Request 8: Order for Whale of quantity 1 placed successfully.
+Query 9 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 10 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 11 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 11: Order for Zebra of quantity 1 placed successfully.
+Query 12 toyname: Whale
+Making a buy request for toy: Whale
+Request 12: Order for Whale of quantity 1 placed successfully.
+Query 13 toyname: INVALID_TOY
+Request 13: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 14 toyname: INVALID_TOY
+Request 14: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 15 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 15: Order for Eagle of quantity 1 placed successfully.
+Query 16 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 17 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 17: Order for Eagle of quantity 1 placed successfully.
+Query 18 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 18: Order for Eagle of quantity 1 placed successfully.
+Query 19 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 20 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 21 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 22 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 23 toyname: Horse
+Making a buy request for toy: Horse
+Request 23: Order for Horse of quantity 1 placed successfully.
+Query 24 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 25 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 26 toyname: Bear
+Making a buy request for toy: Bear
+Request 26: Order for Bear of quantity 1 placed successfully.
+Query 27 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 28 toyname: Whale
+Making a buy request for toy: Whale
+Request 28: Order for Whale of quantity 1 placed successfully.
+Query 29 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 30 toyname: Lion
+Making a buy request for toy: Lion
+Request 30: Order for Lion of quantity 1 placed successfully.
+Query 31 toyname: ElephaNT
+Request 31: Query for ElephaNT failed, status = 200 with message = product not found
+Query 32 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 32: Order for Eagle of quantity 1 placed successfully.
+Query 33 toyname: Bear
+Making a buy request for toy: Bear
+Request 33: Order for Bear of quantity 1 placed successfully.
+Query 34 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 34: Order for Dolphin of quantity 1 placed successfully.
+Query 35 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 35: Order for Eagle of quantity 1 placed successfully.
+Query 36 toyname: Bear
+Making a buy request for toy: Bear
+Request 36: Order for Bear of quantity 1 placed successfully.
+Query 37 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 37: Order for Leopard of quantity 1 placed successfully.
+Query 38 toyname: Lion
+Making a buy request for toy: Lion
+Request 38: Order for Lion of quantity 1 placed successfully.
+Query 39 toyname: Bear
+Making a buy request for toy: Bear
+Request 39: Order for Bear of quantity 1 placed successfully.
+Query 40 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 40: Order for Zebra of quantity 1 placed successfully.
+Query 41 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 41: Order for Giraffe of quantity 1 placed successfully.
+Query 42 toyname: INVALID_TOY
+Request 42: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 43 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 43: Order for Leopard of quantity 1 placed successfully.
+Query 44 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 45 toyname: Horse
+Making a buy request for toy: Horse
+Request 45: Order for Horse of quantity 1 placed successfully.
+Query 46 toyname: Python
+Making a buy request for toy: Python
+Request 46: Order for Python of quantity 1 placed successfully.
+Query 47 toyname: Python
+Making a buy request for toy: Python
+Request 47: Order for Python of quantity 1 placed successfully.
+Query 48 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 48: Order for Zebra of quantity 1 placed successfully.
+Query 49 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 49: Order for Tiger of quantity 1 placed successfully.
+Query 50 toyname: Whale
+Making a buy request for toy: Whale
+Request 50: Order for Whale of quantity 1 placed successfully.
+Query 51 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 52 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 53 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 54 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 55 toyname: Bear
+Making a buy request for toy: Bear
+Request 55: Order for Bear of quantity 1 placed successfully.
+Query 56 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 57 toyname: Horse
+Making a buy request for toy: Horse
+Request 57: Order for Horse of quantity 1 placed successfully.
+Query 58 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 58: Order for Tiger of quantity 1 placed successfully.
+Query 59 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 59: Order for Tiger of quantity 1 placed successfully.
+Query 60 toyname: Lion
+Making a buy request for toy: Lion
+Request 60: Order for Lion of quantity 1 placed successfully.
+Query 61 toyname: Python
+Making a buy request for toy: Python
+Request 61: Order for Python of quantity 1 placed successfully.
+Query 62 toyname: Python
+Making a buy request for toy: Python
+Request 62: Order for Python of quantity 1 placed successfully.
+Query 63 toyname: Bear
+Making a buy request for toy: Bear
+Request 63: Order for Bear of quantity 1 placed successfully.
+Query 64 toyname: ElephaNT
+Request 64: Query for ElephaNT failed, status = 200 with message = product not found
+Query 65 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 65: Order for Giraffe of quantity 1 placed successfully.
+Query 66 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 67 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 67: Order for Dolphin of quantity 1 placed successfully.
+Query 68 toyname: Bear
+Making a buy request for toy: Bear
+Request 68: Order for Bear of quantity 1 placed successfully.
+Query 69 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 69: Order for Leopard of quantity 1 placed successfully.
+Query 70 toyname: Fox
+Making a buy request for toy: Fox
+Request 70: Order for Fox of quantity 1 placed successfully.
+Query 71 toyname: Lion
+Making a buy request for toy: Lion
+Request 71: Order for Lion of quantity 1 placed successfully.
+Query 72 toyname: Bear
+Making a buy request for toy: Bear
+Request 72: Order for Bear of quantity 1 placed successfully.
+Query 73 toyname: Fox
+Making a buy request for toy: Fox
+Request 73: Order for Fox of quantity 1 placed successfully.
+Query 74 toyname: INVALID_TOY
+Request 74: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 75 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 75: Order for Leopard of quantity 1 placed successfully.
+Query 76 toyname: INVALID_TOY
+Request 76: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 77 toyname: Python
+Either quantity is 0 or probability is too low
+Query 78 toyname: Python
+Making a buy request for toy: Python
+Request 78: Order for Python of quantity 1 placed successfully.
+Query 79 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 80 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 80: Order for Giraffe of quantity 1 placed successfully.
+Query 81 toyname: Horse
+Making a buy request for toy: Horse
+Request 81: Order for Horse of quantity 1 placed successfully.
+Query 82 toyname: INVALID_TOY
+Request 82: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 83 toyname: Lion
+Making a buy request for toy: Lion
+Request 83: Order for Lion of quantity 1 placed successfully.
+Query 84 toyname: Tux
+Making a buy request for toy: Tux
+Request 84: Order for Tux of quantity 1 placed successfully.
+Query 85 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 86 toyname: Fox
+Making a buy request for toy: Fox
+Request 86: Order for Fox of quantity 1 placed successfully.
+Query 87 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 88 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 88: Order for Zebra of quantity 1 placed successfully.
+Query 89 toyname: Whale
+Making a buy request for toy: Whale
+Request 89: Order for Whale of quantity 1 placed successfully.
+Query 90 toyname: Bear
+Making a buy request for toy: Bear
+Request 90: Order for Bear of quantity 1 placed successfully.
+Query 91 toyname: Tux
+Making a buy request for toy: Tux
+Request 91: Order for Tux of quantity 1 placed successfully.
+Query 92 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 93 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 94 toyname: Lion
+Making a buy request for toy: Lion
+Request 94: Order for Lion of quantity 1 placed successfully.
+Query 95 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 96 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 97 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 98 toyname: Bear
+Making a buy request for toy: Bear
+Request 98: Order for Bear of quantity 1 placed successfully.
+Query 99 toyname: Tux
+Making a buy request for toy: Tux
+Request 99: Order for Tux of quantity 1 placed successfully.
+Query 100 toyname: Horse
+Making a buy request for toy: Horse
+Request 100: Order for Horse of quantity 1 placed successfully.
+Query 101 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 102 toyname: ElephaNT
+Request 102: Query for ElephaNT failed, status = 200 with message = product not found
+Query 103 toyname: Python
+Making a buy request for toy: Python
+Request 103: Order for Python of quantity 1 placed successfully.
+Query 104 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 105 toyname: Bear
+Making a buy request for toy: Bear
+Request 105: Order for Bear of quantity 1 placed successfully.
+Query 106 toyname: Bear
+Making a buy request for toy: Bear
+Request 106: Order for Bear of quantity 1 placed successfully.
+Query 107 toyname: Lion
+Making a buy request for toy: Lion
+Request 107: Order for Lion of quantity 1 placed successfully.
+Query 108 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 108: Order for Dolphin of quantity 1 placed successfully.
+Query 109 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 109: Order for Zebra of quantity 1 placed successfully.
+Query 110 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 110: Order for Leopard of quantity 1 placed successfully.
+Query 111 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 112 toyname: ElephaNT
+Request 112: Query for ElephaNT failed, status = 200 with message = product not found
+Query 113 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 113: Order for Zebra of quantity 1 placed successfully.
+Query 114 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 115 toyname: Python
+Either quantity is 0 or probability is too low
+Query 116 toyname: Python
+Making a buy request for toy: Python
+Request 116: Order for Python of quantity 1 placed successfully.
+Query 117 toyname: Python
+Making a buy request for toy: Python
+Request 117: Order for Python of quantity 1 placed successfully.
+Query 118 toyname: Horse
+Making a buy request for toy: Horse
+Request 118: Order for Horse of quantity 1 placed successfully.
+Query 119 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 119: Order for Elephant of quantity 1 placed successfully.
+Query 120 toyname: ElephaNT
+Request 120: Query for ElephaNT failed, status = 200 with message = product not found
+Query 121 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 121: Order for Leopard of quantity 1 placed successfully.
+Query 122 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 122: Order for Eagle of quantity 1 placed successfully.
+Query 123 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 124 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 124: Order for Dolphin of quantity 1 placed successfully.
+Query 125 toyname: INVALID_TOY
+Request 125: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 126 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 127 toyname: Dog
+Making a buy request for toy: Dog
+Request 127: Order for Dog of quantity 1 placed successfully.
+Query 128 toyname: Python
+Making a buy request for toy: Python
+Request 128: Order for Python of quantity 1 placed successfully.
+Query 129 toyname: INVALID_TOY
+Request 129: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 130 toyname: INVALID_TOY
+Request 130: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 131 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 132 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 132: Order for Giraffe of quantity 1 placed successfully.
+Query 133 toyname: ElephaNT
+Request 133: Query for ElephaNT failed, status = 200 with message = product not found
+Query 134 toyname: Tux
+Making a buy request for toy: Tux
+Request 134: Order for Tux of quantity 1 placed successfully.
+Query 135 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 135: Order for Zebra of quantity 1 placed successfully.
+Query 136 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 136: Order for Leopard of quantity 1 placed successfully.
+Query 137 toyname: Fox
+Making a buy request for toy: Fox
+Request 137: Order for Fox of quantity 1 placed successfully.
+Query 138 toyname: Whale
+Making a buy request for toy: Whale
+Request 138: Order for Whale of quantity 1 placed successfully.
+Query 139 toyname: Lion
+Making a buy request for toy: Lion
+Request 139: Order for Lion of quantity 1 placed successfully.
+Query 140 toyname: Dog
+Making a buy request for toy: Dog
+Request 140: Order for Dog of quantity 1 placed successfully.
+Query 141 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 142 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 142: Order for Dolphin of quantity 1 placed successfully.
+Query 143 toyname: Horse
+Making a buy request for toy: Horse
+Request 143: Order for Horse of quantity 1 placed successfully.
+Query 144 toyname: Lion
+Making a buy request for toy: Lion
+Request 144: Order for Lion of quantity 1 placed successfully.
+Query 145 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 145: Order for Elephant of quantity 1 placed successfully.
+Query 146 toyname: INVALID_TOY
+Request 146: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 147 toyname: INVALID_TOY
+Request 147: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 148 toyname: ElephaNT
+Request 148: Query for ElephaNT failed, status = 200 with message = product not found
+Query 149 toyname: Horse
+Making a buy request for toy: Horse
+Request 149: Order for Horse of quantity 1 placed successfully.
+Query 150 toyname: Dog
+Making a buy request for toy: Dog
+Request 150: Order for Dog of quantity 1 placed successfully.
+Query 151 toyname: Python
+Making a buy request for toy: Python
+Request 151: Order for Python of quantity 1 placed successfully.
+Query 152 toyname: ElephaNT
+Request 152: Query for ElephaNT failed, status = 200 with message = product not found
+Query 153 toyname: INVALID_TOY
+Request 153: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 154 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 155 toyname: INVALID_TOY
+Request 155: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 156 toyname: Python
+Making a buy request for toy: Python
+Request 156: Order for Python of quantity 1 placed successfully.
+Query 157 toyname: Dog
+Making a buy request for toy: Dog
+Request 157: Order for Dog of quantity 1 placed successfully.
+Query 158 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 158: Order for Giraffe of quantity 1 placed successfully.
+Query 159 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 160 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 160: Order for Eagle of quantity 1 placed successfully.
+Query 161 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 162 toyname: Lion
+Making a buy request for toy: Lion
+Request 162: Order for Lion of quantity 1 placed successfully.
+Query 163 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 163: Order for Dolphin of quantity 1 placed successfully.
+Query 164 toyname: Whale
+Making a buy request for toy: Whale
+Request 164: Order for Whale of quantity 1 placed successfully.
+Query 165 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 166 toyname: ElephaNT
+Request 166: Query for ElephaNT failed, status = 200 with message = product not found
+Query 167 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 167: Order for Giraffe of quantity 1 placed successfully.
+Query 168 toyname: Fox
+Making a buy request for toy: Fox
+Request 168: Order for Fox of quantity 1 placed successfully.
+Query 169 toyname: ElephaNT
+Request 169: Query for ElephaNT failed, status = 200 with message = product not found
+Query 170 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 171 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 171: Order for Tiger of quantity 1 placed successfully.
+Query 172 toyname: Fox
+Making a buy request for toy: Fox
+Request 172: Order for Fox of quantity 1 placed successfully.
+Query 173 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 174 toyname: Fox
+Making a buy request for toy: Fox
+Request 174: Order for Fox of quantity 1 placed successfully.
+Query 175 toyname: Tux
+Making a buy request for toy: Tux
+Request 175: Order for Tux of quantity 1 placed successfully.
+Query 176 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 176: Order for Dolphin of quantity 1 placed successfully.
+Query 177 toyname: Tux
+Making a buy request for toy: Tux
+Request 177: Order for Tux of quantity 1 placed successfully.
+Query 178 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 178: Order for Eagle of quantity 1 placed successfully.
+Query 179 toyname: Dog
+Making a buy request for toy: Dog
+Request 179: Order for Dog of quantity 1 placed successfully.
+Query 180 toyname: Tux
+Making a buy request for toy: Tux
+Request 180: Order for Tux of quantity 1 placed successfully.
+Query 181 toyname: ElephaNT
+Request 181: Query for ElephaNT failed, status = 200 with message = product not found
+Query 182 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 182: Order for Tiger of quantity 1 placed successfully.
+Query 183 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 183: Order for Leopard of quantity 1 placed successfully.
+Query 184 toyname: Python
+Making a buy request for toy: Python
+Request 184: Order for Python of quantity 1 placed successfully.
+Query 185 toyname: Whale
+Making a buy request for toy: Whale
+Request 185: Order for Whale of quantity 1 placed successfully.
+Query 186 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 187 toyname: Dog
+Making a buy request for toy: Dog
+Request 187: Order for Dog of quantity 1 placed successfully.
+Query 188 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 189 toyname: Dog
+Making a buy request for toy: Dog
+Request 189: Order for Dog of quantity 1 placed successfully.
+Query 190 toyname: Dog
+Making a buy request for toy: Dog
+Request 190: Order for Dog of quantity 1 placed successfully.
+Query 191 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 191: Order for Giraffe of quantity 1 placed successfully.
+Query 192 toyname: Horse
+Making a buy request for toy: Horse
+Request 192: Order for Horse of quantity 1 placed successfully.
+Query 193 toyname: Python
+Making a buy request for toy: Python
+Request 193: Order for Python of quantity 1 placed successfully.
+Query 194 toyname: Dog
+Making a buy request for toy: Dog
+Request 194: Order for Dog of quantity 1 placed successfully.
+Query 195 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 196 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 196: Order for Giraffe of quantity 1 placed successfully.
+Query 197 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 197: Order for Tiger of quantity 1 placed successfully.
+Query 198 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 199 toyname: Python
+Making a buy request for toy: Python
+Request 199: Order for Python of quantity 1 placed successfully.
+Query 200 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 200: Order for Tiger of quantity 1 placed successfully.
+Query 201 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 201: Order for Dolphin of quantity 1 placed successfully.
+Query 202 toyname: Lion
+Making a buy request for toy: Lion
+Request 202: Order for Lion of quantity 1 placed successfully.
+Query 203 toyname: ElephaNT
+Request 203: Query for ElephaNT failed, status = 200 with message = product not found
+Query 204 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 204: Order for Leopard of quantity 1 placed successfully.
+Query 205 toyname: Whale
+Making a buy request for toy: Whale
+Request 205: Order for Whale of quantity 1 placed successfully.
+Query 206 toyname: Whale
+Making a buy request for toy: Whale
+Request 206: Order for Whale of quantity 1 placed successfully.
+Query 207 toyname: Python
+Making a buy request for toy: Python
+Request 207: Order for Python of quantity 1 placed successfully.
+Query 208 toyname: Whale
+Making a buy request for toy: Whale
+Request 208: Order for Whale of quantity 1 placed successfully.
+Query 209 toyname: Horse
+Making a buy request for toy: Horse
+Request 209: Order for Horse of quantity 1 placed successfully.
+Query 210 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 210: Order for Dolphin of quantity 1 placed successfully.
+Query 211 toyname: Lion
+Making a buy request for toy: Lion
+Request 211: Order for Lion of quantity 1 placed successfully.
+Query 212 toyname: Lion
+Making a buy request for toy: Lion
+Request 212: Order for Lion of quantity 1 placed successfully.
+Query 213 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 214 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 215 toyname: Horse
+Making a buy request for toy: Horse
+Request 215: Order for Horse of quantity 1 placed successfully.
+Query 216 toyname: Fox
+Making a buy request for toy: Fox
+Request 216: Order for Fox of quantity 1 placed successfully.
+Query 217 toyname: Horse
+Making a buy request for toy: Horse
+Request 217: Order for Horse of quantity 1 placed successfully.
+Query 218 toyname: Whale
+Making a buy request for toy: Whale
+Request 218: Order for Whale of quantity 1 placed successfully.
+Query 219 toyname: INVALID_TOY
+Request 219: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 220 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 221 toyname: Horse
+Making a buy request for toy: Horse
+Request 221: Order for Horse of quantity 1 placed successfully.
+Query 222 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 222: Order for Elephant of quantity 1 placed successfully.
+Query 223 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 223: Order for Elephant of quantity 1 placed successfully.
+Query 224 toyname: Horse
+Making a buy request for toy: Horse
+Request 224: Order for Horse of quantity 1 placed successfully.
+Query 225 toyname: Dog
+Making a buy request for toy: Dog
+Request 225: Order for Dog of quantity 1 placed successfully.
+Query 226 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 226: Order for Eagle of quantity 1 placed successfully.
+Query 227 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 228 toyname: Dog
+Making a buy request for toy: Dog
+Request 228: Order for Dog of quantity 1 placed successfully.
+Query 229 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 229: Order for Leopard of quantity 1 placed successfully.
+Query 230 toyname: ElephaNT
+Request 230: Query for ElephaNT failed, status = 200 with message = product not found
+Query 231 toyname: Lion
+Making a buy request for toy: Lion
+Request 231: Order for Lion of quantity 1 placed successfully.
+Query 232 toyname: Horse
+Making a buy request for toy: Horse
+Request 232: Order for Horse of quantity 1 placed successfully.
+Query 233 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 234 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 235 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 235: Order for Giraffe of quantity 1 placed successfully.
+Query 236 toyname: Horse
+Making a buy request for toy: Horse
+Request 236: Order for Horse of quantity 1 placed successfully.
+Query 237 toyname: INVALID_TOY
+Request 237: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 238 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 238: Order for Tiger of quantity 1 placed successfully.
+Query 239 toyname: Tux
+Making a buy request for toy: Tux
+Request 239: Order for Tux of quantity 1 placed successfully.
+Query 240 toyname: INVALID_TOY
+Request 240: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 241 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 241: Order for Tiger of quantity 1 placed successfully.
+Query 242 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 242: Order for Tiger of quantity 1 placed successfully.
+Query 243 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 243: Order for Tiger of quantity 1 placed successfully.
+Query 244 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 244: Order for Eagle of quantity 1 placed successfully.
+Query 245 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 246 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 246: Order for Dolphin of quantity 1 placed successfully.
+Query 247 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 248 toyname: ElephaNT
+Request 248: Query for ElephaNT failed, status = 200 with message = product not found
+Query 249 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 249: Order for Tiger of quantity 1 placed successfully.
+Query 250 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 250: Order for Dolphin of quantity 1 placed successfully.
+Query 251 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 252 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 253 toyname: Fox
+Making a buy request for toy: Fox
+Request 253: Order for Fox of quantity 1 placed successfully.
+Query 254 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 254: Order for Dolphin of quantity 1 placed successfully.
+Query 255 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 255: Order for Leopard of quantity 1 placed successfully.
+Query 256 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 256: Order for Elephant of quantity 1 placed successfully.
+Query 257 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 257: Order for Zebra of quantity 1 placed successfully.
+Query 258 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 258: Order for Dolphin of quantity 1 placed successfully.
+Query 259 toyname: INVALID_TOY
+Request 259: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 260 toyname: Whale
+Making a buy request for toy: Whale
+Request 260: Order for Whale of quantity 1 placed successfully.
+Query 261 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 261: Order for Zebra of quantity 1 placed successfully.
+Query 262 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 262: Order for Tiger of quantity 1 placed successfully.
+Query 263 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 263: Order for Zebra of quantity 1 placed successfully.
+Query 264 toyname: Lion
+Making a buy request for toy: Lion
+Request 264: Order for Lion of quantity 1 placed successfully.
+Query 265 toyname: Fox
+Making a buy request for toy: Fox
+Request 265: Order for Fox of quantity 1 placed successfully.
+Query 266 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 266: Order for Tiger of quantity 1 placed successfully.
+Query 267 toyname: Whale
+Making a buy request for toy: Whale
+Request 267: Order for Whale of quantity 1 placed successfully.
+Query 268 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 268: Order for Tiger of quantity 1 placed successfully.
+Query 269 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 270 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 270: Order for Dolphin of quantity 1 placed successfully.
+Query 271 toyname: Python
+Making a buy request for toy: Python
+Request 271: Order for Python of quantity 1 placed successfully.
+Query 272 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 272: Order for Zebra of quantity 1 placed successfully.
+Query 273 toyname: INVALID_TOY
+Request 273: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 274 toyname: ElephaNT
+Request 274: Query for ElephaNT failed, status = 200 with message = product not found
+Query 275 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 276 toyname: Lion
+Making a buy request for toy: Lion
+Request 276: Order for Lion of quantity 1 placed successfully.
+Query 277 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 277: Order for Tiger of quantity 1 placed successfully.
+Query 278 toyname: Python
+Making a buy request for toy: Python
+Request 278: Order for Python of quantity 1 placed successfully.
+Query 279 toyname: ElephaNT
+Request 279: Query for ElephaNT failed, status = 200 with message = product not found
+Query 280 toyname: Python
+Making a buy request for toy: Python
+Request 280: Order for Python of quantity 1 placed successfully.
+Query 281 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 282 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 282: Order for Eagle of quantity 1 placed successfully.
+Query 283 toyname: Bear
+Making a buy request for toy: Bear
+Request 283: Order for Bear of quantity 1 placed successfully.
+Query 284 toyname: INVALID_TOY
+Request 284: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 285 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 285: Order for Tiger of quantity 1 placed successfully.
+Query 286 toyname: INVALID_TOY
+Request 286: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 287 toyname: Bear
+Making a buy request for toy: Bear
+Request 287: Order for Bear of quantity 1 placed successfully.
+Query 288 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 289 toyname: Lion
+Making a buy request for toy: Lion
+Request 289: Order for Lion of quantity 1 placed successfully.
+Query 290 toyname: Whale
+Making a buy request for toy: Whale
+Request 290: Order for Whale of quantity 1 placed successfully.
+Query 291 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 291: Order for Giraffe of quantity 1 placed successfully.
+Query 292 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 293 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 294 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 294: Order for Tiger of quantity 1 placed successfully.
+Query 295 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 296 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 297 toyname: Bear
+Making a buy request for toy: Bear
+Request 297: Order for Bear of quantity 1 placed successfully.
+Query 298 toyname: ElephaNT
+Request 298: Query for ElephaNT failed, status = 200 with message = product not found
+Query 299 toyname: Tux
+Making a buy request for toy: Tux
+Request 299: Order for Tux of quantity 1 placed successfully.
+Query 300 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 300: Order for Tiger of quantity 1 placed successfully.
+Query 301 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 302 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 303 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 303: Order for Eagle of quantity 1 placed successfully.
+Query 304 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 304: Order for Zebra of quantity 1 placed successfully.
+Query 305 toyname: INVALID_TOY
+Request 305: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 306 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 307 toyname: Fox
+Making a buy request for toy: Fox
+Request 307: Order for Fox of quantity 1 placed successfully.
+Query 308 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 309 toyname: INVALID_TOY
+Request 309: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 310 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 310: Order for Dolphin of quantity 1 placed successfully.
+Query 311 toyname: Dog
+Making a buy request for toy: Dog
+Request 311: Order for Dog of quantity 1 placed successfully.
+Query 312 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 313 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 313: Order for Leopard of quantity 1 placed successfully.
+Query 314 toyname: ElephaNT
+Request 314: Query for ElephaNT failed, status = 200 with message = product not found
+Query 315 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 315: Order for Elephant of quantity 1 placed successfully.
+Query 316 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 317 toyname: Bear
+Making a buy request for toy: Bear
+Request 317: Order for Bear of quantity 1 placed successfully.
+Query 318 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 319 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 319: Order for Giraffe of quantity 1 placed successfully.
+Query 320 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 320: Order for Eagle of quantity 1 placed successfully.
+Query 321 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 321: Order for Elephant of quantity 1 placed successfully.
+Query 322 toyname: Python
+Making a buy request for toy: Python
+Request 322: Order for Python of quantity 1 placed successfully.
+Query 323 toyname: Whale
+Making a buy request for toy: Whale
+Request 323: Order for Whale of quantity 1 placed successfully.
+Query 324 toyname: Fox
+Making a buy request for toy: Fox
+Request 324: Order for Fox of quantity 1 placed successfully.
+Query 325 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 326 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 326: Order for Elephant of quantity 1 placed successfully.
+Query 327 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 328 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 329 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 329: Order for Zebra of quantity 1 placed successfully.
+Query 330 toyname: Whale
+Making a buy request for toy: Whale
+Request 330: Order for Whale of quantity 1 placed successfully.
+Query 331 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 332 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 333 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 334 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 335 toyname: Bear
+Making a buy request for toy: Bear
+Request 335: Order for Bear of quantity 1 placed successfully.
+Query 336 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 337 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 338 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 338: Order for Zebra of quantity 1 placed successfully.
+Query 339 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 339: Order for Zebra of quantity 1 placed successfully.
+Query 340 toyname: INVALID_TOY
+Request 340: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 341 toyname: ElephaNT
+Request 341: Query for ElephaNT failed, status = 200 with message = product not found
+Query 342 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 342: Order for Zebra of quantity 1 placed successfully.
+Query 343 toyname: Whale
+Making a buy request for toy: Whale
+Request 343: Order for Whale of quantity 1 placed successfully.
+Query 344 toyname: ElephaNT
+Request 344: Query for ElephaNT failed, status = 200 with message = product not found
+Query 345 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 346 toyname: Horse
+Making a buy request for toy: Horse
+Request 346: Order for Horse of quantity 1 placed successfully.
+Query 347 toyname: Whale
+Making a buy request for toy: Whale
+Request 347: Order for Whale of quantity 1 placed successfully.
+Query 348 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 348: Order for Dolphin of quantity 1 placed successfully.
+Query 349 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 349: Order for Leopard of quantity 1 placed successfully.
+Query 350 toyname: Bear
+Making a buy request for toy: Bear
+Request 350: Order for Bear of quantity 1 placed successfully.
+Query 351 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 351: Order for Leopard of quantity 1 placed successfully.
+Query 352 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 352: Order for Leopard of quantity 1 placed successfully.
+Query 353 toyname: INVALID_TOY
+Request 353: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 354 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 354: Order for Dolphin of quantity 1 placed successfully.
+Query 355 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 355: Order for Dolphin of quantity 1 placed successfully.
+Query 356 toyname: INVALID_TOY
+Request 356: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 357 toyname: ElephaNT
+Request 357: Query for ElephaNT failed, status = 200 with message = product not found
+Query 358 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 358: Order for Giraffe of quantity 1 placed successfully.
+Query 359 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 359: Order for Tiger of quantity 1 placed successfully.
+Query 360 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 360: Order for Tiger of quantity 1 placed successfully.
+Query 361 toyname: Dog
+Making a buy request for toy: Dog
+Request 361: Order for Dog of quantity 1 placed successfully.
+Query 362 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 363 toyname: Bear
+Making a buy request for toy: Bear
+Request 363: Order for Bear of quantity 1 placed successfully.
+Query 364 toyname: Dog
+Making a buy request for toy: Dog
+Request 364: Order for Dog of quantity 1 placed successfully.
+Query 365 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 366 toyname: Fox
+Making a buy request for toy: Fox
+Request 366: Order for Fox of quantity 1 placed successfully.
+Query 367 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 367: Order for Leopard of quantity 1 placed successfully.
+Query 368 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 368: Order for Dolphin of quantity 1 placed successfully.
+Query 369 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 369: Order for Giraffe of quantity 1 placed successfully.
+Query 370 toyname: INVALID_TOY
+Request 370: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 371 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 371: Order for Eagle of quantity 1 placed successfully.
+Query 372 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 372: Order for Leopard of quantity 1 placed successfully.
+Query 373 toyname: Horse
+Making a buy request for toy: Horse
+Request 373: Order for Horse of quantity 1 placed successfully.
+Query 374 toyname: INVALID_TOY
+Request 374: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 375 toyname: Fox
+Making a buy request for toy: Fox
+Request 375: Order for Fox of quantity 1 placed successfully.
+Query 376 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 376: Order for Dolphin of quantity 1 placed successfully.
+Query 377 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 378 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 379 toyname: Tux
+Making a buy request for toy: Tux
+Request 379: Order for Tux of quantity 1 placed successfully.
+Query 380 toyname: Dog
+Making a buy request for toy: Dog
+Request 380: Order for Dog of quantity 1 placed successfully.
+Query 381 toyname: INVALID_TOY
+Request 381: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 382 toyname: ElephaNT
+Request 382: Query for ElephaNT failed, status = 200 with message = product not found
+Query 383 toyname: ElephaNT
+Request 383: Query for ElephaNT failed, status = 200 with message = product not found
+Query 384 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 384: Order for Eagle of quantity 1 placed successfully.
+Query 385 toyname: ElephaNT
+Request 385: Query for ElephaNT failed, status = 200 with message = product not found
+Query 386 toyname: Fox
+Making a buy request for toy: Fox
+Request 386: Order for Fox of quantity 1 placed successfully.
+Query 387 toyname: Bear
+Making a buy request for toy: Bear
+Request 387: Order for Bear of quantity 1 placed successfully.
+Query 388 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 389 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 389: Order for Elephant of quantity 1 placed successfully.
+Query 390 toyname: Horse
+Making a buy request for toy: Horse
+Request 390: Order for Horse of quantity 1 placed successfully.
+Query 391 toyname: ElephaNT
+Request 391: Query for ElephaNT failed, status = 200 with message = product not found
+Query 392 toyname: Bear
+Making a buy request for toy: Bear
+Request 392: Order for Bear of quantity 1 placed successfully.
+Query 393 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 393: Order for Dolphin of quantity 1 placed successfully.
+Query 394 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 395 toyname: Tux
+Making a buy request for toy: Tux
+Request 395: Order for Tux of quantity 1 placed successfully.
+Query 396 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 396: Order for Elephant of quantity 1 placed successfully.
+Query 397 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 397: Order for Leopard of quantity 1 placed successfully.
+Query 398 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 398: Order for Tiger of quantity 1 placed successfully.
+Query 399 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 400 toyname: INVALID_TOY
+Request 400: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 401 toyname: Whale
+Making a buy request for toy: Whale
+Request 401: Order for Whale of quantity 1 placed successfully.
+Query 402 toyname: INVALID_TOY
+Request 402: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 403 toyname: Whale
+Making a buy request for toy: Whale
+Request 403: Order for Whale of quantity 1 placed successfully.
+Query 404 toyname: Whale
+Making a buy request for toy: Whale
+Request 404: Order for Whale of quantity 1 placed successfully.
+Query 405 toyname: Whale
+Making a buy request for toy: Whale
+Request 405: Order for Whale of quantity 1 placed successfully.
+Query 406 toyname: Tux
+Making a buy request for toy: Tux
+Request 406: Order for Tux of quantity 1 placed successfully.
+Query 407 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 407: Order for Tiger of quantity 1 placed successfully.
+Query 408 toyname: INVALID_TOY
+Request 408: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 409 toyname: Whale
+Making a buy request for toy: Whale
+Request 409: Order for Whale of quantity 1 placed successfully.
+Query 410 toyname: Dog
+Making a buy request for toy: Dog
+Request 410: Order for Dog of quantity 1 placed successfully.
+Query 411 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 411: Order for Elephant of quantity 1 placed successfully.
+Query 412 toyname: Dog
+Making a buy request for toy: Dog
+Request 412: Order for Dog of quantity 1 placed successfully.
+Query 413 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 414 toyname: INVALID_TOY
+Request 414: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 415 toyname: INVALID_TOY
+Request 415: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 416 toyname: INVALID_TOY
+Request 416: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 417 toyname: Tux
+Making a buy request for toy: Tux
+Request 417: Order for Tux of quantity 1 placed successfully.
+Query 418 toyname: Fox
+Making a buy request for toy: Fox
+Request 418: Order for Fox of quantity 1 placed successfully.
+Query 419 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 419: Order for Giraffe of quantity 1 placed successfully.
+Query 420 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 420: Order for Giraffe of quantity 1 placed successfully.
+Query 421 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 422 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 423 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 424 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 424: Order for Elephant of quantity 1 placed successfully.
+Query 425 toyname: Fox
+Making a buy request for toy: Fox
+Request 425: Order for Fox of quantity 1 placed successfully.
+Query 426 toyname: Python
+Making a buy request for toy: Python
+Request 426: Order for Python of quantity 1 placed successfully.
+Query 427 toyname: Whale
+Making a buy request for toy: Whale
+Request 427: Order for Whale of quantity 1 placed successfully.
+Query 428 toyname: Horse
+Making a buy request for toy: Horse
+Request 428: Order for Horse of quantity 1 placed successfully.
+Query 429 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 430 toyname: Python
+Making a buy request for toy: Python
+Request 430: Order for Python of quantity 1 placed successfully.
+Query 431 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 431: Order for Tiger of quantity 1 placed successfully.
+Query 432 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 433 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 434 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 434: Order for Zebra of quantity 1 placed successfully.
+Query 435 toyname: Fox
+Making a buy request for toy: Fox
+Request 435: Order for Fox of quantity 1 placed successfully.
+Query 436 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 436: Order for Eagle of quantity 1 placed successfully.
+Query 437 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 438 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 438: Order for Giraffe of quantity 1 placed successfully.
+Query 439 toyname: Python
+Making a buy request for toy: Python
+Request 439: Order for Python of quantity 1 placed successfully.
+Query 440 toyname: Whale
+Making a buy request for toy: Whale
+Request 440: Order for Whale of quantity 1 placed successfully.
+Query 441 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 442 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 443 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 444 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 444: Order for Tiger of quantity 1 placed successfully.
+Query 445 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 445: Order for Tiger of quantity 1 placed successfully.
+Query 446 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 446: Order for Tiger of quantity 1 placed successfully.
+Query 447 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 447: Order for Tiger of quantity 1 placed successfully.
+Query 448 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 448: Order for Giraffe of quantity 1 placed successfully.
+Query 449 toyname: Lion
+Making a buy request for toy: Lion
+Request 449: Order for Lion of quantity 1 placed successfully.
+Query 450 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 450: Order for Elephant of quantity 1 placed successfully.
+Query 451 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 451: Order for Dolphin of quantity 1 placed successfully.
+Query 452 toyname: Bear
+Making a buy request for toy: Bear
+Request 452: Order for Bear of quantity 1 placed successfully.
+Query 453 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 453: Order for Eagle of quantity 1 placed successfully.
+Query 454 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 454: Order for Eagle of quantity 1 placed successfully.
+Query 455 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 455: Order for Giraffe of quantity 1 placed successfully.
+Query 456 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 456: Order for Zebra of quantity 1 placed successfully.
+Query 457 toyname: Bear
+Making a buy request for toy: Bear
+Request 457: Order for Bear of quantity 1 placed successfully.
+Query 458 toyname: Whale
+Making a buy request for toy: Whale
+Request 458: Order for Whale of quantity 1 placed successfully.
+Query 459 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 459: Order for Dolphin of quantity 1 placed successfully.
+Query 460 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 460: Order for Leopard of quantity 1 placed successfully.
+Query 461 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 461: Order for Elephant of quantity 1 placed successfully.
+Query 462 toyname: Lion
+Making a buy request for toy: Lion
+Request 462: Order for Lion of quantity 1 placed successfully.
+Query 463 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 464 toyname: Dog
+Making a buy request for toy: Dog
+Request 464: Order for Dog of quantity 1 placed successfully.
+Query 465 toyname: Whale
+Making a buy request for toy: Whale
+Request 465: Order for Whale of quantity 1 placed successfully.
+Query 466 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 466: Order for Leopard of quantity 1 placed successfully.
+Query 467 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 468 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 468: Order for Eagle of quantity 1 placed successfully.
+Query 469 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 469: Order for Tiger of quantity 1 placed successfully.
+Query 470 toyname: Tux
+Making a buy request for toy: Tux
+Request 470: Order for Tux of quantity 1 placed successfully.
+Query 471 toyname: Dog
+Making a buy request for toy: Dog
+Request 471: Order for Dog of quantity 1 placed successfully.
+Query 472 toyname: Fox
+Making a buy request for toy: Fox
+Request 472: Order for Fox of quantity 1 placed successfully.
+Query 473 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 473: Order for Leopard of quantity 1 placed successfully.
+Query 474 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 475 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 475: Order for Zebra of quantity 1 placed successfully.
+Query 476 toyname: Whale
+Making a buy request for toy: Whale
+Request 476: Order for Whale of quantity 1 placed successfully.
+Query 477 toyname: Fox
+Making a buy request for toy: Fox
+Request 477: Order for Fox of quantity 1 placed successfully.
+Query 478 toyname: Tux
+Making a buy request for toy: Tux
+Request 478: Order for Tux of quantity 1 placed successfully.
+Query 479 toyname: Horse
+Making a buy request for toy: Horse
+Request 479: Order for Horse of quantity 1 placed successfully.
+Query 480 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 481 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 481: Order for Dolphin of quantity 1 placed successfully.
+Query 482 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 482: Order for Elephant of quantity 1 placed successfully.
+Query 483 toyname: ElephaNT
+Request 483: Query for ElephaNT failed, status = 200 with message = product not found
+Query 484 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 484: Order for Leopard of quantity 1 placed successfully.
+Query 485 toyname: ElephaNT
+Request 485: Query for ElephaNT failed, status = 200 with message = product not found
+Query 486 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 487 toyname: Tux
+Making a buy request for toy: Tux
+Request 487: Order for Tux of quantity 1 placed successfully.
+Query 488 toyname: Bear
+Making a buy request for toy: Bear
+Request 488: Order for Bear of quantity 1 placed successfully.
+Query 489 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 489: Order for Zebra of quantity 1 placed successfully.
+Query 490 toyname: Fox
+Making a buy request for toy: Fox
+Request 490: Order for Fox of quantity 1 placed successfully.
+Query 491 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 491: Order for Tiger of quantity 1 placed successfully.
+Query 492 toyname: Horse
+Making a buy request for toy: Horse
+Request 492: Order for Horse of quantity 1 placed successfully.
+Query 493 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 493: Order for Giraffe of quantity 1 placed successfully.
+Query 494 toyname: Python
+Making a buy request for toy: Python
+Request 494: Order for Python of quantity 1 placed successfully.
+Query 495 toyname: Dog
+Making a buy request for toy: Dog
+Request 495: Order for Dog of quantity 1 placed successfully.
+Query 496 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 497 toyname: INVALID_TOY
+Request 497: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 498 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 498: Order for Tiger of quantity 1 placed successfully.
+Query 499 toyname: Tux
+Making a buy request for toy: Tux
+Request 499: Order for Tux of quantity 1 placed successfully.
+Query 500 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 501 toyname: Tux
+Making a buy request for toy: Tux
+Request 501: Order for Tux of quantity 1 placed successfully.
+Query 502 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 502: Order for Leopard of quantity 1 placed successfully.
+Query 503 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 503: Order for Leopard of quantity 1 placed successfully.
+Query 504 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 505 toyname: Fox
+Making a buy request for toy: Fox
+Request 505: Order for Fox of quantity 1 placed successfully.
+Query 506 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 506: Order for Leopard of quantity 1 placed successfully.
+Query 507 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 507: Order for Tiger of quantity 1 placed successfully.
+Query 508 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 508: Order for Giraffe of quantity 1 placed successfully.
+Query 509 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 509: Order for Giraffe of quantity 1 placed successfully.
+Query 510 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 511 toyname: Bear
+Making a buy request for toy: Bear
+Request 511: Order for Bear of quantity 1 placed successfully.
+Query 512 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 512: Order for Eagle of quantity 1 placed successfully.
+Query 513 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 513: Order for Tiger of quantity 1 placed successfully.
+Query 514 toyname: Bear
+Making a buy request for toy: Bear
+Request 514: Order for Bear of quantity 1 placed successfully.
+Query 515 toyname: Python
+Making a buy request for toy: Python
+Request 515: Order for Python of quantity 1 placed successfully.
+Query 516 toyname: INVALID_TOY
+Request 516: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 517 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 518 toyname: Tux
+Making a buy request for toy: Tux
+Request 518: Order for Tux of quantity 1 placed successfully.
+Query 519 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 519: Order for Giraffe of quantity 1 placed successfully.
+Query 520 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 521 toyname: Dog
+Making a buy request for toy: Dog
+Request 521: Order for Dog of quantity 1 placed successfully.
+Query 522 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 522: Order for Dolphin of quantity 1 placed successfully.
+Query 523 toyname: Horse
+Making a buy request for toy: Horse
+Request 523: Order for Horse of quantity 1 placed successfully.
+Query 524 toyname: INVALID_TOY
+Request 524: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 525 toyname: Dog
+Making a buy request for toy: Dog
+Request 525: Order for Dog of quantity 1 placed successfully.
+Query 526 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 527 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 527: Order for Giraffe of quantity 1 placed successfully.
+Query 528 toyname: ElephaNT
+Request 528: Query for ElephaNT failed, status = 200 with message = product not found
+Query 529 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 530 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 531 toyname: Tux
+Making a buy request for toy: Tux
+Request 531: Order for Tux of quantity 1 placed successfully.
+Query 532 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 532: Order for Giraffe of quantity 1 placed successfully.
+Query 533 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 534 toyname: Whale
+Making a buy request for toy: Whale
+Request 534: Order for Whale of quantity 1 placed successfully.
+Query 535 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 535: Order for Dolphin of quantity 1 placed successfully.
+Query 536 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 537 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 538 toyname: Bear
+Making a buy request for toy: Bear
+Request 538: Order for Bear of quantity 1 placed successfully.
+Query 539 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 540 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 541 toyname: Whale
+Making a buy request for toy: Whale
+Request 541: Order for Whale of quantity 1 placed successfully.
+Query 542 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 543 toyname: Dog
+Making a buy request for toy: Dog
+Request 543: Order for Dog of quantity 1 placed successfully.
+Query 544 toyname: ElephaNT
+Request 544: Query for ElephaNT failed, status = 200 with message = product not found
+Query 545 toyname: Python
+Making a buy request for toy: Python
+Request 545: Order for Python of quantity 1 placed successfully.
+Query 546 toyname: Whale
+Making a buy request for toy: Whale
+Request 546: Order for Whale of quantity 1 placed successfully.
+Query 547 toyname: Horse
+Making a buy request for toy: Horse
+Request 547: Order for Horse of quantity 1 placed successfully.
+Query 548 toyname: ElephaNT
+Request 548: Query for ElephaNT failed, status = 200 with message = product not found
+Query 549 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 549: Order for Leopard of quantity 1 placed successfully.
+Query 550 toyname: Whale
+Making a buy request for toy: Whale
+Request 550: Order for Whale of quantity 1 placed successfully.
+Query 551 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 552 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 552: Order for Elephant of quantity 1 placed successfully.
+Query 553 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 554 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 555 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 555: Order for Elephant of quantity 1 placed successfully.
+Query 556 toyname: ElephaNT
+Request 556: Query for ElephaNT failed, status = 200 with message = product not found
+Query 557 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 557: Order for Giraffe of quantity 1 placed successfully.
+Query 558 toyname: ElephaNT
+Request 558: Query for ElephaNT failed, status = 200 with message = product not found
+Query 559 toyname: Horse
+Making a buy request for toy: Horse
+Request 559: Order for Horse of quantity 1 placed successfully.
+Query 560 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 561 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 561: Order for Elephant of quantity 1 placed successfully.
+Query 562 toyname: Horse
+Making a buy request for toy: Horse
+Request 562: Order for Horse of quantity 1 placed successfully.
+Query 563 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 563: Order for Tiger of quantity 1 placed successfully.
+Query 564 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 564: Order for Zebra of quantity 1 placed successfully.
+Query 565 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 565: Order for Eagle of quantity 1 placed successfully.
+Query 566 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 566: Order for Tiger of quantity 1 placed successfully.
+Query 567 toyname: Python
+Making a buy request for toy: Python
+Request 567: Order for Python of quantity 1 placed successfully.
+Query 568 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 569 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 569: Order for Eagle of quantity 1 placed successfully.
+Query 570 toyname: Fox
+Making a buy request for toy: Fox
+Request 570: Order for Fox of quantity 1 placed successfully.
+Query 571 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 572 toyname: Fox
+Making a buy request for toy: Fox
+Request 572: Order for Fox of quantity 1 placed successfully.
+Query 573 toyname: Horse
+Making a buy request for toy: Horse
+Request 573: Order for Horse of quantity 1 placed successfully.
+Query 574 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 574: Order for Elephant of quantity 1 placed successfully.
+Query 575 toyname: Dog
+Making a buy request for toy: Dog
+Request 575: Order for Dog of quantity 1 placed successfully.
+Query 576 toyname: INVALID_TOY
+Request 576: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 577 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 577: Order for Elephant of quantity 1 placed successfully.
+Query 578 toyname: Lion
+Making a buy request for toy: Lion
+Request 578: Order for Lion of quantity 1 placed successfully.
+Query 579 toyname: ElephaNT
+Request 579: Query for ElephaNT failed, status = 200 with message = product not found
+Query 580 toyname: Python
+Making a buy request for toy: Python
+Request 580: Order for Python of quantity 1 placed successfully.
+Query 581 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 581: Order for Eagle of quantity 1 placed successfully.
+Query 582 toyname: INVALID_TOY
+Request 582: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 583 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 584 toyname: Dolphin
+Either quantity is 0 or probability is too low
+Query 585 toyname: Bear
+Making a buy request for toy: Bear
+Request 585: Order for Bear of quantity 1 placed successfully.
+Query 586 toyname: Whale
+Making a buy request for toy: Whale
+Request 586: Order for Whale of quantity 1 placed successfully.
+Query 587 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 588 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 589 toyname: Fox
+Making a buy request for toy: Fox
+Request 589: Order for Fox of quantity 1 placed successfully.
+Query 590 toyname: Python
+Making a buy request for toy: Python
+Request 590: Order for Python of quantity 1 placed successfully.
+Query 591 toyname: Bear
+Making a buy request for toy: Bear
+Request 591: Order for Bear of quantity 1 placed successfully.
+Query 592 toyname: Whale
+Making a buy request for toy: Whale
+Request 592: Order for Whale of quantity 1 placed successfully.
+Query 593 toyname: Lion
+Making a buy request for toy: Lion
+Request 593: Order for Lion of quantity 1 placed successfully.
+Query 594 toyname: Tux
+Making a buy request for toy: Tux
+Request 594: Order for Tux of quantity 1 placed successfully.
+Query 595 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 595: Order for Tiger of quantity 1 placed successfully.
+Query 596 toyname: ElephaNT
+Request 596: Query for ElephaNT failed, status = 200 with message = product not found
+Query 597 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 597: Order for Eagle of quantity 1 placed successfully.
+Query 598 toyname: INVALID_TOY
+Request 598: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 599 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 599: Order for Tiger of quantity 1 placed successfully.
+Query 600 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 600: Order for Tiger of quantity 1 placed successfully.
+Query 601 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 602 toyname: INVALID_TOY
+Request 602: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 603 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 604 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 605 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 606 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 607 toyname: Python
+Either quantity is 0 or probability is too low
+Query 608 toyname: Horse
+Making a buy request for toy: Horse
+Request 608: Order for Horse of quantity 1 placed successfully.
+Query 609 toyname: Fox
+Making a buy request for toy: Fox
+Request 609: Order for Fox of quantity 1 placed successfully.
+Query 610 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 611 toyname: Python
+Making a buy request for toy: Python
+Request 611: Order for Python of quantity 1 placed successfully.
+Query 612 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 612: Order for Tiger of quantity 1 placed successfully.
+Query 613 toyname: Dog
+Making a buy request for toy: Dog
+Request 613: Order for Dog of quantity 1 placed successfully.
+Query 614 toyname: Python
+Either quantity is 0 or probability is too low
+Query 615 toyname: Fox
+Making a buy request for toy: Fox
+Request 615: Order for Fox of quantity 1 placed successfully.
+Query 616 toyname: Whale
+Making a buy request for toy: Whale
+Request 616: Order for Whale of quantity 1 placed successfully.
+Query 617 toyname: ElephaNT
+Request 617: Query for ElephaNT failed, status = 200 with message = product not found
+Query 618 toyname: Bear
+Making a buy request for toy: Bear
+Request 618: Order for Bear of quantity 1 placed successfully.
+Query 619 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 620 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 621 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 621: Order for Leopard of quantity 1 placed successfully.
+Query 622 toyname: INVALID_TOY
+Request 622: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 623 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 624 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 624: Order for Giraffe of quantity 1 placed successfully.
+Query 625 toyname: Bear
+Making a buy request for toy: Bear
+Request 625: Order for Bear of quantity 1 placed successfully.
+Query 626 toyname: ElephaNT
+Request 626: Query for ElephaNT failed, status = 200 with message = product not found
+Query 627 toyname: ElephaNT
+Request 627: Query for ElephaNT failed, status = 200 with message = product not found
+Query 628 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 629 toyname: Horse
+Making a buy request for toy: Horse
+Request 629: Order for Horse of quantity 1 placed successfully.
+Query 630 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 630: Order for Zebra of quantity 1 placed successfully.
+Query 631 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 631: Order for Leopard of quantity 1 placed successfully.
+Query 632 toyname: INVALID_TOY
+Request 632: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 633 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 633: Order for Tiger of quantity 1 placed successfully.
+Query 634 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 635 toyname: Dog
+Making a buy request for toy: Dog
+Request 635: Order for Dog of quantity 1 placed successfully.
+Query 636 toyname: Bear
+Making a buy request for toy: Bear
+Request 636: Order for Bear of quantity 1 placed successfully.
+Query 637 toyname: ElephaNT
+Request 637: Query for ElephaNT failed, status = 200 with message = product not found
+Query 638 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 638: Order for Eagle of quantity 1 placed successfully.
+Query 639 toyname: Fox
+Making a buy request for toy: Fox
+Request 639: Order for Fox of quantity 1 placed successfully.
+Query 640 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 640: Order for Elephant of quantity 1 placed successfully.
+Query 641 toyname: ElephaNT
+Request 641: Query for ElephaNT failed, status = 200 with message = product not found
+Query 642 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 643 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 643: Order for Zebra of quantity 1 placed successfully.
+Query 644 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 645 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 646 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 646: Order for Zebra of quantity 1 placed successfully.
+Query 647 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 648 toyname: Tux
+Making a buy request for toy: Tux
+Request 648: Order for Tux of quantity 1 placed successfully.
+Query 649 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 649: Order for Tiger of quantity 1 placed successfully.
+Query 650 toyname: Whale
+Making a buy request for toy: Whale
+Request 650: Order for Whale of quantity 1 placed successfully.
+Query 651 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 652 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 652: Order for Zebra of quantity 1 placed successfully.
+Query 653 toyname: Horse
+Making a buy request for toy: Horse
+Request 653: Order for Horse of quantity 1 placed successfully.
+Query 654 toyname: Dog
+Making a buy request for toy: Dog
+Request 654: Order for Dog of quantity 1 placed successfully.
+Query 655 toyname: INVALID_TOY
+Request 655: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 656 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 656: Order for Dolphin of quantity 1 placed successfully.
+Query 657 toyname: Bear
+Making a buy request for toy: Bear
+Request 657: Order for Bear of quantity 1 placed successfully.
+Query 658 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 659 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 660 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 660: Order for Dolphin of quantity 1 placed successfully.
+Query 661 toyname: Whale
+Making a buy request for toy: Whale
+Request 661: Order for Whale of quantity 1 placed successfully.
+Query 662 toyname: Horse
+Making a buy request for toy: Horse
+Request 662: Order for Horse of quantity 1 placed successfully.
+Query 663 toyname: INVALID_TOY
+Request 663: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 664 toyname: ElephaNT
+Request 664: Query for ElephaNT failed, status = 200 with message = product not found
+Query 665 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 666 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 666: Order for Eagle of quantity 1 placed successfully.
+Query 667 toyname: Fox
+Making a buy request for toy: Fox
+Request 667: Order for Fox of quantity 1 placed successfully.
+Query 668 toyname: ElephaNT
+Request 668: Query for ElephaNT failed, status = 200 with message = product not found
+Query 669 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 669: Order for Giraffe of quantity 1 placed successfully.
+Query 670 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 671 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 672 toyname: Dog
+Making a buy request for toy: Dog
+Request 672: Order for Dog of quantity 1 placed successfully.
+Query 673 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 673: Order for Giraffe of quantity 1 placed successfully.
+Query 674 toyname: Dog
+Making a buy request for toy: Dog
+Request 674: Order for Dog of quantity 1 placed successfully.
+Query 675 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 675: Order for Tiger of quantity 1 placed successfully.
+Query 676 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 677 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 678 toyname: Dog
+Making a buy request for toy: Dog
+Request 678: Order for Dog of quantity 1 placed successfully.
+Query 679 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 679: Order for Elephant of quantity 1 placed successfully.
+Query 680 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 680: Order for Leopard of quantity 1 placed successfully.
+Query 681 toyname: Tux
+Making a buy request for toy: Tux
+Request 681: Order for Tux of quantity 1 placed successfully.
+Query 682 toyname: Dog
+Making a buy request for toy: Dog
+Request 682: Order for Dog of quantity 1 placed successfully.
+Query 683 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 683: Order for Dolphin of quantity 1 placed successfully.
+Query 684 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 685 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 685: Order for Eagle of quantity 1 placed successfully.
+Query 686 toyname: Tux
+Making a buy request for toy: Tux
+Request 686: Order for Tux of quantity 1 placed successfully.
+Query 687 toyname: Dog
+Making a buy request for toy: Dog
+Request 687: Order for Dog of quantity 1 placed successfully.
+Query 688 toyname: Bear
+Making a buy request for toy: Bear
+Request 688: Order for Bear of quantity 1 placed successfully.
+Query 689 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 689: Order for Tiger of quantity 1 placed successfully.
+Query 690 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 691 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 691: Order for Leopard of quantity 1 placed successfully.
+Query 692 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 692: Order for Tiger of quantity 1 placed successfully.
+Query 693 toyname: Python
+Either quantity is 0 or probability is too low
+Query 694 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 695 toyname: Fox
+Making a buy request for toy: Fox
+Request 695: Order for Fox of quantity 1 placed successfully.
+Query 696 toyname: ElephaNT
+Request 696: Query for ElephaNT failed, status = 200 with message = product not found
+Query 697 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 697: Order for Giraffe of quantity 1 placed successfully.
+Query 698 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 698: Order for Dolphin of quantity 1 placed successfully.
+Query 699 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 700 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 701 toyname: ElephaNT
+Request 701: Query for ElephaNT failed, status = 200 with message = product not found
+Query 702 toyname: Lion
+Making a buy request for toy: Lion
+Request 702: Order for Lion of quantity 1 placed successfully.
+Query 703 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 703: Order for Eagle of quantity 1 placed successfully.
+Query 704 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 705 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 705: Order for Zebra of quantity 1 placed successfully.
+Query 706 toyname: Python
+Making a buy request for toy: Python
+Request 706: Order for Python of quantity 1 placed successfully.
+Query 707 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 707: Order for Eagle of quantity 1 placed successfully.
+Query 708 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 708: Order for Zebra of quantity 1 placed successfully.
+Query 709 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 709: Order for Leopard of quantity 1 placed successfully.
+Query 710 toyname: ElephaNT
+Request 710: Query for ElephaNT failed, status = 200 with message = product not found
+Query 711 toyname: Bear
+Making a buy request for toy: Bear
+Request 711: Order for Bear of quantity 1 placed successfully.
+Query 712 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 713 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 713: Order for Tiger of quantity 1 placed successfully.
+Query 714 toyname: Horse
+Making a buy request for toy: Horse
+Request 714: Order for Horse of quantity 1 placed successfully.
+Query 715 toyname: Bear
+Making a buy request for toy: Bear
+Request 715: Order for Bear of quantity 1 placed successfully.
+Query 716 toyname: Horse
+Making a buy request for toy: Horse
+Request 716: Order for Horse of quantity 1 placed successfully.
+Query 717 toyname: Dog
+Making a buy request for toy: Dog
+Request 717: Order for Dog of quantity 1 placed successfully.
+Query 718 toyname: Dog
+Making a buy request for toy: Dog
+Request 718: Order for Dog of quantity 1 placed successfully.
+Query 719 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 720 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 720: Order for Eagle of quantity 1 placed successfully.
+Query 721 toyname: Python
+Making a buy request for toy: Python
+Request 721: Order for Python of quantity 1 placed successfully.
+Query 722 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 722: Order for Zebra of quantity 1 placed successfully.
+Query 723 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 723: Order for Elephant of quantity 1 placed successfully.
+Query 724 toyname: Lion
+Making a buy request for toy: Lion
+Request 724: Order for Lion of quantity 1 placed successfully.
+Query 725 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 725: Order for Tiger of quantity 1 placed successfully.
+Query 726 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 726: Order for Elephant of quantity 1 placed successfully.
+Query 727 toyname: Python
+Either quantity is 0 or probability is too low
+Query 728 toyname: ElephaNT
+Request 728: Query for ElephaNT failed, status = 200 with message = product not found
+Query 729 toyname: Lion
+Making a buy request for toy: Lion
+Request 729: Order for Lion of quantity 1 placed successfully.
+Query 730 toyname: Whale
+Making a buy request for toy: Whale
+Request 730: Order for Whale of quantity 1 placed successfully.
+Query 731 toyname: Fox
+Making a buy request for toy: Fox
+Request 731: Order for Fox of quantity 1 placed successfully.
+Query 732 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 732: Order for Tiger of quantity 1 placed successfully.
+Query 733 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 734 toyname: Python
+Making a buy request for toy: Python
+Request 734: Order for Python of quantity 1 placed successfully.
+Query 735 toyname: INVALID_TOY
+Request 735: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 736 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 736: Order for Leopard of quantity 1 placed successfully.
+Query 737 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 737: Order for Giraffe of quantity 1 placed successfully.
+Query 738 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 739 toyname: ElephaNT
+Request 739: Query for ElephaNT failed, status = 200 with message = product not found
+Query 740 toyname: ElephaNT
+Request 740: Query for ElephaNT failed, status = 200 with message = product not found
+Query 741 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 742 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 742: Order for Elephant of quantity 1 placed successfully.
+Query 743 toyname: Tux
+Making a buy request for toy: Tux
+Request 743: Order for Tux of quantity 1 placed successfully.
+Query 744 toyname: Lion
+Making a buy request for toy: Lion
+Request 744: Order for Lion of quantity 1 placed successfully.
+Query 745 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 745: Order for Dolphin of quantity 1 placed successfully.
+Query 746 toyname: Lion
+Making a buy request for toy: Lion
+Request 746: Order for Lion of quantity 1 placed successfully.
+Query 747 toyname: Fox
+Making a buy request for toy: Fox
+Request 747: Order for Fox of quantity 1 placed successfully.
+Query 748 toyname: Bear
+Making a buy request for toy: Bear
+Request 748: Order for Bear of quantity 1 placed successfully.
+Query 749 toyname: INVALID_TOY
+Request 749: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 750 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 750: Order for Dolphin of quantity 1 placed successfully.
+Query 751 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 751: Order for Eagle of quantity 1 placed successfully.
+Query 752 toyname: Tux
+Making a buy request for toy: Tux
+Request 752: Order for Tux of quantity 1 placed successfully.
+Query 753 toyname: Whale
+Making a buy request for toy: Whale
+Request 753: Order for Whale of quantity 1 placed successfully.
+Query 754 toyname: Dog
+Making a buy request for toy: Dog
+Request 754: Order for Dog of quantity 1 placed successfully.
+Query 755 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 756 toyname: Python
+Making a buy request for toy: Python
+Request 756: Order for Python of quantity 1 placed successfully.
+Query 757 toyname: Dog
+Making a buy request for toy: Dog
+Request 757: Order for Dog of quantity 1 placed successfully.
+Query 758 toyname: Lion
+Making a buy request for toy: Lion
+Request 758: Order for Lion of quantity 1 placed successfully.
+Query 759 toyname: Lion
+Making a buy request for toy: Lion
+Request 759: Order for Lion of quantity 1 placed successfully.
+Query 760 toyname: Python
+Making a buy request for toy: Python
+Request 760: Order for Python of quantity 1 placed successfully.
+Query 761 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 762 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 762: Order for Elephant of quantity 1 placed successfully.
+Query 763 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 764 toyname: Bear
+Making a buy request for toy: Bear
+Request 764: Order for Bear of quantity 1 placed successfully.
+Query 765 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 766 toyname: Dog
+Making a buy request for toy: Dog
+Request 766: Order for Dog of quantity 1 placed successfully.
+Query 767 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 767: Order for Elephant of quantity 1 placed successfully.
+Query 768 toyname: INVALID_TOY
+Request 768: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 769 toyname: Python
+Making a buy request for toy: Python
+Request 769: Order for Python of quantity 1 placed successfully.
+Query 770 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 770: Order for Elephant of quantity 1 placed successfully.
+Query 771 toyname: Tux
+Making a buy request for toy: Tux
+Request 771: Order for Tux of quantity 1 placed successfully.
+Query 772 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 772: Order for Leopard of quantity 1 placed successfully.
+Query 773 toyname: Tux
+Making a buy request for toy: Tux
+Request 773: Order for Tux of quantity 1 placed successfully.
+Query 774 toyname: Whale
+Making a buy request for toy: Whale
+Request 774: Order for Whale of quantity 1 placed successfully.
+Query 775 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 775: Order for Eagle of quantity 1 placed successfully.
+Query 776 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 776: Order for Eagle of quantity 1 placed successfully.
+Query 777 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 778 toyname: Whale
+Making a buy request for toy: Whale
+Request 778: Order for Whale of quantity 1 placed successfully.
+Query 779 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 780 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 780: Order for Giraffe of quantity 1 placed successfully.
+Query 781 toyname: INVALID_TOY
+Request 781: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 782 toyname: Dog
+Making a buy request for toy: Dog
+Request 782: Order for Dog of quantity 1 placed successfully.
+Query 783 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 783: Order for Zebra of quantity 1 placed successfully.
+Query 784 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 784: Order for Elephant of quantity 1 placed successfully.
+Query 785 toyname: INVALID_TOY
+Request 785: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 786 toyname: Lion
+Making a buy request for toy: Lion
+Request 786: Order for Lion of quantity 1 placed successfully.
+Query 787 toyname: Bear
+Making a buy request for toy: Bear
+Request 787: Order for Bear of quantity 1 placed successfully.
+Query 788 toyname: Lion
+Making a buy request for toy: Lion
+Request 788: Order for Lion of quantity 1 placed successfully.
+Query 789 toyname: Lion
+Making a buy request for toy: Lion
+Request 789: Order for Lion of quantity 1 placed successfully.
+Query 790 toyname: Python
+Making a buy request for toy: Python
+Request 790: Order for Python of quantity 1 placed successfully.
+Query 791 toyname: ElephaNT
+Request 791: Query for ElephaNT failed, status = 200 with message = product not found
+Query 792 toyname: Lion
+Making a buy request for toy: Lion
+Request 792: Order for Lion of quantity 1 placed successfully.
+Query 793 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 793: Order for Giraffe of quantity 1 placed successfully.
+Query 794 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 794: Order for Dolphin of quantity 1 placed successfully.
+Query 795 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 796 toyname: INVALID_TOY
+Request 796: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 797 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 797: Order for Giraffe of quantity 1 placed successfully.
+Query 798 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 798: Order for Eagle of quantity 1 placed successfully.
+Query 799 toyname: Lion
+Making a buy request for toy: Lion
+Request 799: Order for Lion of quantity 1 placed successfully.
+Query 800 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 801 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 801: Order for Elephant of quantity 1 placed successfully.
+Query 802 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 802: Order for Tiger of quantity 1 placed successfully.
+Query 803 toyname: INVALID_TOY
+Request 803: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 804 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 804: Order for Zebra of quantity 1 placed successfully.
+Query 805 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 806 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 806: Order for Eagle of quantity 1 placed successfully.
+Query 807 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 807: Order for Zebra of quantity 1 placed successfully.
+Query 808 toyname: ElephaNT
+Request 808: Query for ElephaNT failed, status = 200 with message = product not found
+Query 809 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 809: Order for Elephant of quantity 1 placed successfully.
+Query 810 toyname: Lion
+Making a buy request for toy: Lion
+Request 810: Order for Lion of quantity 1 placed successfully.
+Query 811 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 811: Order for Eagle of quantity 1 placed successfully.
+Query 812 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 812: Order for Eagle of quantity 1 placed successfully.
+Query 813 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 814 toyname: Python
+Either quantity is 0 or probability is too low
+Query 815 toyname: Whale
+Making a buy request for toy: Whale
+Request 815: Order for Whale of quantity 1 placed successfully.
+Query 816 toyname: INVALID_TOY
+Request 816: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 817 toyname: Tux
+Making a buy request for toy: Tux
+Request 817: Order for Tux of quantity 1 placed successfully.
+Query 818 toyname: INVALID_TOY
+Request 818: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 819 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 819: Order for Eagle of quantity 1 placed successfully.
+Query 820 toyname: ElephaNT
+Request 820: Query for ElephaNT failed, status = 200 with message = product not found
+Query 821 toyname: Horse
+Making a buy request for toy: Horse
+Request 821: Order for Horse of quantity 1 placed successfully.
+Query 822 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 822: Order for Leopard of quantity 1 placed successfully.
+Query 823 toyname: Python
+Making a buy request for toy: Python
+Request 823: Order for Python of quantity 1 placed successfully.
+Query 824 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 825 toyname: Horse
+Making a buy request for toy: Horse
+Request 825: Order for Horse of quantity 1 placed successfully.
+Query 826 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 827 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 828 toyname: Fox
+Making a buy request for toy: Fox
+Request 828: Order for Fox of quantity 1 placed successfully.
+Query 829 toyname: Whale
+Making a buy request for toy: Whale
+Request 829: Order for Whale of quantity 1 placed successfully.
+Query 830 toyname: INVALID_TOY
+Request 830: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 831 toyname: ElephaNT
+Request 831: Query for ElephaNT failed, status = 200 with message = product not found
+Query 832 toyname: Dog
+Making a buy request for toy: Dog
+Request 832: Order for Dog of quantity 1 placed successfully.
+Query 833 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 833: Order for Leopard of quantity 1 placed successfully.
+Query 834 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 834: Order for Giraffe of quantity 1 placed successfully.
+Query 835 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 836 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 836: Order for Eagle of quantity 1 placed successfully.
+Query 837 toyname: Horse
+Making a buy request for toy: Horse
+Request 837: Order for Horse of quantity 1 placed successfully.
+Query 838 toyname: Lion
+Making a buy request for toy: Lion
+Request 838: Order for Lion of quantity 1 placed successfully.
+Query 839 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 839: Order for Elephant of quantity 1 placed successfully.
+Query 840 toyname: Horse
+Making a buy request for toy: Horse
+Request 840: Order for Horse of quantity 1 placed successfully.
+Query 841 toyname: Python
+Either quantity is 0 or probability is too low
+Query 842 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 842: Order for Dolphin of quantity 1 placed successfully.
+Query 843 toyname: Whale
+Making a buy request for toy: Whale
+Request 843: Order for Whale of quantity 1 placed successfully.
+Query 844 toyname: Horse
+Making a buy request for toy: Horse
+Request 844: Order for Horse of quantity 1 placed successfully.
+Query 845 toyname: Horse
+Making a buy request for toy: Horse
+Request 845: Order for Horse of quantity 1 placed successfully.
+Query 846 toyname: ElephaNT
+Request 846: Query for ElephaNT failed, status = 200 with message = product not found
+Query 847 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 847: Order for Eagle of quantity 1 placed successfully.
+Query 848 toyname: Tux
+Making a buy request for toy: Tux
+Request 848: Order for Tux of quantity 1 placed successfully.
+Query 849 toyname: Bear
+Making a buy request for toy: Bear
+Request 849: Order for Bear of quantity 1 placed successfully.
+Query 850 toyname: Tux
+Making a buy request for toy: Tux
+Request 850: Order for Tux of quantity 1 placed successfully.
+Query 851 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 851: Order for Giraffe of quantity 1 placed successfully.
+Query 852 toyname: Python
+Making a buy request for toy: Python
+Request 852: Order for Python of quantity 1 placed successfully.
+Query 853 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 853: Order for Leopard of quantity 1 placed successfully.
+Query 854 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 855 toyname: Tux
+Making a buy request for toy: Tux
+Request 855: Order for Tux of quantity 1 placed successfully.
+Query 856 toyname: Python
+Making a buy request for toy: Python
+Request 856: Order for Python of quantity 1 placed successfully.
+Query 857 toyname: Bear
+Making a buy request for toy: Bear
+Request 857: Order for Bear of quantity 1 placed successfully.
+Query 858 toyname: Fox
+Making a buy request for toy: Fox
+Request 858: Order for Fox of quantity 1 placed successfully.
+Query 859 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 859: Order for Zebra of quantity 1 placed successfully.
+Query 860 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 860: Order for Zebra of quantity 1 placed successfully.
+Query 861 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 861: Order for Elephant of quantity 1 placed successfully.
+Query 862 toyname: Python
+Making a buy request for toy: Python
+Request 862: Order for Python of quantity 1 placed successfully.
+Query 863 toyname: Horse
+Making a buy request for toy: Horse
+Request 863: Order for Horse of quantity 1 placed successfully.
+Query 864 toyname: Tux
+Making a buy request for toy: Tux
+Request 864: Order for Tux of quantity 1 placed successfully.
+Query 865 toyname: Lion
+Making a buy request for toy: Lion
+Request 865: Order for Lion of quantity 1 placed successfully.
+Query 866 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 867 toyname: Whale
+Making a buy request for toy: Whale
+Request 867: Order for Whale of quantity 1 placed successfully.
+Query 868 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 868: Order for Dolphin of quantity 1 placed successfully.
+Query 869 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 869: Order for Eagle of quantity 1 placed successfully.
+Query 870 toyname: ElephaNT
+Request 870: Query for ElephaNT failed, status = 200 with message = product not found
+Query 871 toyname: Horse
+Making a buy request for toy: Horse
+Request 871: Order for Horse of quantity 1 placed successfully.
+Query 872 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 872: Order for Dolphin of quantity 1 placed successfully.
+Query 873 toyname: Fox
+Making a buy request for toy: Fox
+Request 873: Order for Fox of quantity 1 placed successfully.
+Query 874 toyname: ElephaNT
+Request 874: Query for ElephaNT failed, status = 200 with message = product not found
+Query 875 toyname: Tux
+Making a buy request for toy: Tux
+Request 875: Order for Tux of quantity 1 placed successfully.
+Query 876 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 876: Order for Zebra of quantity 1 placed successfully.
+Query 877 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 878 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 878: Order for Zebra of quantity 1 placed successfully.
+Query 879 toyname: INVALID_TOY
+Request 879: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 880 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 880: Order for Zebra of quantity 1 placed successfully.
+Query 881 toyname: Python
+Making a buy request for toy: Python
+Request 881: Order for Python of quantity 1 placed successfully.
+Query 882 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 883 toyname: Python
+Either quantity is 0 or probability is too low
+Query 884 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 885 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 885: Order for Elephant of quantity 1 placed successfully.
+Query 886 toyname: ElephaNT
+Request 886: Query for ElephaNT failed, status = 200 with message = product not found
+Query 887 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 887: Order for Giraffe of quantity 1 placed successfully.
+Query 888 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 889 toyname: ElephaNT
+Request 889: Query for ElephaNT failed, status = 200 with message = product not found
+Query 890 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 891 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 891: Order for Tiger of quantity 1 placed successfully.
+Query 892 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 892: Order for Zebra of quantity 1 placed successfully.
+Query 893 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 893: Order for Tiger of quantity 1 placed successfully.
+Query 894 toyname: Tux
+Making a buy request for toy: Tux
+Request 894: Order for Tux of quantity 1 placed successfully.
+Query 895 toyname: Lion
+Making a buy request for toy: Lion
+Request 895: Order for Lion of quantity 1 placed successfully.
+Query 896 toyname: Python
+Making a buy request for toy: Python
+Request 896: Order for Python of quantity 1 placed successfully.
+Query 897 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 898 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 899 toyname: ElephaNT
+Request 899: Query for ElephaNT failed, status = 200 with message = product not found
+Query 900 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 901 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 902 toyname: INVALID_TOY
+Request 902: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 903 toyname: Dog
+Either quantity is 0 or probability is too low
+Query 904 toyname: Lion
+Making a buy request for toy: Lion
+Request 904: Order for Lion of quantity 1 placed successfully.
+Query 905 toyname: Tux
+Either quantity is 0 or probability is too low
+Query 906 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 906: Order for Elephant of quantity 1 placed successfully.
+Query 907 toyname: Whale
+Making a buy request for toy: Whale
+Request 907: Order for Whale of quantity 1 placed successfully.
+Query 908 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 908: Order for Dolphin of quantity 1 placed successfully.
+Query 909 toyname: Python
+Making a buy request for toy: Python
+Request 909: Order for Python of quantity 1 placed successfully.
+Query 910 toyname: Dog
+Making a buy request for toy: Dog
+Request 910: Order for Dog of quantity 1 placed successfully.
+Query 911 toyname: Fox
+Making a buy request for toy: Fox
+Request 911: Order for Fox of quantity 1 placed successfully.
+Query 912 toyname: Zebra
+Either quantity is 0 or probability is too low
+Query 913 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 913: Order for Tiger of quantity 1 placed successfully.
+Query 914 toyname: Fox
+Making a buy request for toy: Fox
+Request 914: Order for Fox of quantity 1 placed successfully.
+Query 915 toyname: Dog
+Making a buy request for toy: Dog
+Request 915: Order for Dog of quantity 1 placed successfully.
+Query 916 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 917 toyname: Dog
+Making a buy request for toy: Dog
+Request 917: Order for Dog of quantity 1 placed successfully.
+Query 918 toyname: Whale
+Making a buy request for toy: Whale
+Request 918: Order for Whale of quantity 1 placed successfully.
+Query 919 toyname: Fox
+Making a buy request for toy: Fox
+Request 919: Order for Fox of quantity 1 placed successfully.
+Query 920 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 920: Order for Giraffe of quantity 1 placed successfully.
+Query 921 toyname: Bear
+Making a buy request for toy: Bear
+Request 921: Order for Bear of quantity 1 placed successfully.
+Query 922 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 922: Order for Elephant of quantity 1 placed successfully.
+Query 923 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 923: Order for Dolphin of quantity 1 placed successfully.
+Query 924 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 924: Order for Giraffe of quantity 1 placed successfully.
+Query 925 toyname: INVALID_TOY
+Request 925: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 926 toyname: Fox
+Making a buy request for toy: Fox
+Request 926: Order for Fox of quantity 1 placed successfully.
+Query 927 toyname: Leopard
+Either quantity is 0 or probability is too low
+Query 928 toyname: INVALID_TOY
+Request 928: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 929 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 929: Order for Dolphin of quantity 1 placed successfully.
+Query 930 toyname: Python
+Either quantity is 0 or probability is too low
+Query 931 toyname: Python
+Making a buy request for toy: Python
+Request 931: Order for Python of quantity 1 placed successfully.
+Query 932 toyname: Bear
+Making a buy request for toy: Bear
+Request 932: Order for Bear of quantity 1 placed successfully.
+Query 933 toyname: Tux
+Making a buy request for toy: Tux
+Request 933: Order for Tux of quantity 1 placed successfully.
+Query 934 toyname: Tux
+Making a buy request for toy: Tux
+Request 934: Order for Tux of quantity 1 placed successfully.
+Query 935 toyname: Bear
+Making a buy request for toy: Bear
+Request 935: Order for Bear of quantity 1 placed successfully.
+Query 936 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 936: Order for Tiger of quantity 1 placed successfully.
+Query 937 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 937: Order for Dolphin of quantity 1 placed successfully.
+Query 938 toyname: Fox
+Making a buy request for toy: Fox
+Request 938: Order for Fox of quantity 1 placed successfully.
+Query 939 toyname: Python
+Making a buy request for toy: Python
+Request 939: Order for Python of quantity 1 placed successfully.
+Query 940 toyname: Horse
+Making a buy request for toy: Horse
+Request 940: Order for Horse of quantity 1 placed successfully.
+Query 941 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 941: Order for Tiger of quantity 1 placed successfully.
+Query 942 toyname: Fox
+Making a buy request for toy: Fox
+Request 942: Order for Fox of quantity 1 placed successfully.
+Query 943 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 943: Order for Leopard of quantity 1 placed successfully.
+Query 944 toyname: Fox
+Making a buy request for toy: Fox
+Request 944: Order for Fox of quantity 1 placed successfully.
+Query 945 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 945: Order for Dolphin of quantity 1 placed successfully.
+Query 946 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 946: Order for Eagle of quantity 1 placed successfully.
+Query 947 toyname: Elephant
+Either quantity is 0 or probability is too low
+Query 948 toyname: Dog
+Making a buy request for toy: Dog
+Request 948: Order for Dog of quantity 1 placed successfully.
+Query 949 toyname: Bear
+Making a buy request for toy: Bear
+Request 949: Order for Bear of quantity 1 placed successfully.
+Query 950 toyname: Tiger
+Either quantity is 0 or probability is too low
+Query 951 toyname: Dog
+Making a buy request for toy: Dog
+Request 951: Order for Dog of quantity 1 placed successfully.
+Query 952 toyname: Whale
+Making a buy request for toy: Whale
+Request 952: Order for Whale of quantity 1 placed successfully.
+Query 953 toyname: Bear
+Making a buy request for toy: Bear
+Request 953: Order for Bear of quantity 1 placed successfully.
+Query 954 toyname: INVALID_TOY
+Request 954: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 955 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 955: Order for Tiger of quantity 1 placed successfully.
+Query 956 toyname: Horse
+Making a buy request for toy: Horse
+Request 956: Order for Horse of quantity 1 placed successfully.
+Query 957 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 957: Order for Tiger of quantity 1 placed successfully.
+Query 958 toyname: Tux
+Making a buy request for toy: Tux
+Request 958: Order for Tux of quantity 1 placed successfully.
+Query 959 toyname: Eagle
+Making a buy request for toy: Eagle
+Request 959: Order for Eagle of quantity 1 placed successfully.
+Query 960 toyname: Lion
+Either quantity is 0 or probability is too low
+Query 961 toyname: INVALID_TOY
+Request 961: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 962 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 962: Order for Tiger of quantity 1 placed successfully.
+Query 963 toyname: ElephaNT
+Request 963: Query for ElephaNT failed, status = 200 with message = product not found
+Query 964 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 965 toyname: Giraffe
+Either quantity is 0 or probability is too low
+Query 966 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 967 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 968 toyname: Whale
+Making a buy request for toy: Whale
+Request 968: Order for Whale of quantity 1 placed successfully.
+Query 969 toyname: ElephaNT
+Request 969: Query for ElephaNT failed, status = 200 with message = product not found
+Query 970 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 970: Order for Dolphin of quantity 1 placed successfully.
+Query 971 toyname: Python
+Making a buy request for toy: Python
+Request 971: Order for Python of quantity 1 placed successfully.
+Query 972 toyname: Bear
+Either quantity is 0 or probability is too low
+Query 973 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 973: Order for Dolphin of quantity 1 placed successfully.
+Query 974 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 975 toyname: Zebra
+Making a buy request for toy: Zebra
+Request 975: Order for Zebra of quantity 1 placed successfully.
+Query 976 toyname: Lion
+Making a buy request for toy: Lion
+Request 976: Order for Lion of quantity 1 placed successfully.
+Query 977 toyname: Bear
+Making a buy request for toy: Bear
+Request 977: Order for Bear of quantity 1 placed successfully.
+Query 978 toyname: Dolphin
+Making a buy request for toy: Dolphin
+Request 978: Order for Dolphin of quantity 1 placed successfully.
+Query 979 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 979: Order for Giraffe of quantity 1 placed successfully.
+Query 980 toyname: INVALID_TOY
+Request 980: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 981 toyname: Dog
+Making a buy request for toy: Dog
+Request 981: Order for Dog of quantity 1 placed successfully.
+Query 982 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 983 toyname: INVALID_TOY
+Request 983: Query for INVALID_TOY failed, status = 200 with message = product not found
+Query 984 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 984: Order for Leopard of quantity 1 placed successfully.
+Query 985 toyname: Bear
+Making a buy request for toy: Bear
+Request 985: Order for Bear of quantity 1 placed successfully.
+Query 986 toyname: Whale
+Making a buy request for toy: Whale
+Request 986: Order for Whale of quantity 1 placed successfully.
+Query 987 toyname: Tiger
+Making a buy request for toy: Tiger
+Request 987: Order for Tiger of quantity 1 placed successfully.
+Query 988 toyname: Whale
+Making a buy request for toy: Whale
+Request 988: Order for Whale of quantity 1 placed successfully.
+Query 989 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 989: Order for Elephant of quantity 1 placed successfully.
+Query 990 toyname: ElephaNT
+Request 990: Query for ElephaNT failed, status = 200 with message = product not found
+Query 991 toyname: Leopard
+Making a buy request for toy: Leopard
+Request 991: Order for Leopard of quantity 1 placed successfully.
+Query 992 toyname: Eagle
+Either quantity is 0 or probability is too low
+Query 993 toyname: Dog
+Making a buy request for toy: Dog
+Request 993: Order for Dog of quantity 1 placed successfully.
+Query 994 toyname: Whale
+Either quantity is 0 or probability is too low
+Query 995 toyname: Fox
+Either quantity is 0 or probability is too low
+Query 996 toyname: Elephant
+Making a buy request for toy: Elephant
+Request 996: Order for Elephant of quantity 1 placed successfully.
+Query 997 toyname: Horse
+Either quantity is 0 or probability is too low
+Query 998 toyname: ElephaNT
+Request 998: Query for ElephaNT failed, status = 200 with message = product not found
+Query 999 toyname: Giraffe
+Making a buy request for toy: Giraffe
+Request 999: Order for Giraffe of quantity 1 placed successfully.
+matched for orderId: 19350
+matched for orderId: 19354
+matched for orderId: 19359
+matched for orderId: 19363
+matched for orderId: 19366
+matched for orderId: 19371
+matched for orderId: 19376
+matched for orderId: 19381
+matched for orderId: 19384
+matched for orderId: 19392
+matched for orderId: 19396
+matched for orderId: 19404
+matched for orderId: 19410
+matched for orderId: 19414
+matched for orderId: 19423
+matched for orderId: 19429
+matched for orderId: 19434
+matched for orderId: 19438
+matched for orderId: 19443
+matched for orderId: 19448
+matched for orderId: 19453
+matched for orderId: 19457
+matched for orderId: 19462
+matched for orderId: 19467
+matched for orderId: 19471
+matched for orderId: 19476
+matched for orderId: 19480
+matched for orderId: 19484
+matched for orderId: 19490
+matched for orderId: 19497
+matched for orderId: 19502
+matched for orderId: 19506
+matched for orderId: 19510
+matched for orderId: 19514
+matched for orderId: 19518
+matched for orderId: 19527
+matched for orderId: 19533
+matched for orderId: 19537
+matched for orderId: 19542
+matched for orderId: 19546
+matched for orderId: 19550
+matched for orderId: 19555
+matched for orderId: 19560
+matched for orderId: 19565
+matched for orderId: 19571
+matched for orderId: 19575
+matched for orderId: 19580
+matched for orderId: 19584
+matched for orderId: 19589
+matched for orderId: 19594
+matched for orderId: 19599
+matched for orderId: 19604
+matched for orderId: 19611
+matched for orderId: 19616
+matched for orderId: 19620
+matched for orderId: 19624
+matched for orderId: 19629
+matched for orderId: 19634
+matched for orderId: 19639
+matched for orderId: 19644
+matched for orderId: 19650
+matched for orderId: 19655
+matched for orderId: 19661
+matched for orderId: 19670
+matched for orderId: 19674
+matched for orderId: 19679
+matched for orderId: 19685
+matched for orderId: 19692
+matched for orderId: 19696
+matched for orderId: 19700
+matched for orderId: 19705
+matched for orderId: 19716
+matched for orderId: 19720
+matched for orderId: 19727
+matched for orderId: 19733
+matched for orderId: 19738
+matched for orderId: 19743
+matched for orderId: 19748
+matched for orderId: 19753
+matched for orderId: 19758
+matched for orderId: 19763
+matched for orderId: 19771
+matched for orderId: 19776
+matched for orderId: 19782
+matched for orderId: 19788
+matched for orderId: 19793
+matched for orderId: 19798
+matched for orderId: 19803
+matched for orderId: 19807
+matched for orderId: 19811
+matched for orderId: 19816
+matched for orderId: 19819
+matched for orderId: 19822
+matched for orderId: 19824
+matched for orderId: 19826
+matched for orderId: 19830
+matched for orderId: 19835
+matched for orderId: 19840
+matched for orderId: 19849
+matched for orderId: 19853
+matched for orderId: 19858
+matched for orderId: 19864
+matched for orderId: 19868
+matched for orderId: 19871
+matched for orderId: 19874
+matched for orderId: 19880
+matched for orderId: 19884
+matched for orderId: 19890
+matched for orderId: 19895
+matched for orderId: 19899
+matched for orderId: 19903
+matched for orderId: 19907
+matched for orderId: 19910
+matched for orderId: 19915
+matched for orderId: 19919
+matched for orderId: 19923
+matched for orderId: 19929
+matched for orderId: 19931
+matched for orderId: 19936
+matched for orderId: 19941
+matched for orderId: 19946
+matched for orderId: 19952
+matched for orderId: 19956
+matched for orderId: 19960
+matched for orderId: 19964
+matched for orderId: 19969
+matched for orderId: 19973
+matched for orderId: 19980
+matched for orderId: 19983
+matched for orderId: 19989
+matched for orderId: 19994
+matched for orderId: 19999
+matched for orderId: 20002
+matched for orderId: 20006
+matched for orderId: 20011
+matched for orderId: 20016
+matched for orderId: 20021
+matched for orderId: 20025
+matched for orderId: 20028
+matched for orderId: 20033
+matched for orderId: 20037
+matched for orderId: 20040
+matched for orderId: 20056
+matched for orderId: 20061
+matched for orderId: 20065
+matched for orderId: 20070
+matched for orderId: 20078
+matched for orderId: 20084
+matched for orderId: 20088
+matched for orderId: 20092
+matched for orderId: 20096
+matched for orderId: 20116
+matched for orderId: 20120
+matched for orderId: 20125
+matched for orderId: 20130
+matched for orderId: 20135
+matched for orderId: 20140
+matched for orderId: 20145
+matched for orderId: 20151
+matched for orderId: 20156
+matched for orderId: 20162
+matched for orderId: 20167
+matched for orderId: 20172
+matched for orderId: 20177
+matched for orderId: 20182
+matched for orderId: 20189
+matched for orderId: 20194
+matched for orderId: 20201
+matched for orderId: 20206
+matched for orderId: 20211
+matched for orderId: 20215
+matched for orderId: 20220
+matched for orderId: 20225
+matched for orderId: 20230
+matched for orderId: 20234
+matched for orderId: 20238
+matched for orderId: 20242
+matched for orderId: 20247
+matched for orderId: 20251
+matched for orderId: 20256
+matched for orderId: 20261
+matched for orderId: 20266
+matched for orderId: 20271
+matched for orderId: 20276
+matched for orderId: 20280
+matched for orderId: 20287
+matched for orderId: 20290
+matched for orderId: 20295
+matched for orderId: 20300
+matched for orderId: 20306
+matched for orderId: 20309
+matched for orderId: 20315
+matched for orderId: 20319
+matched for orderId: 20325
+matched for orderId: 20328
+matched for orderId: 20333
+matched for orderId: 20339
+matched for orderId: 20347
+matched for orderId: 20352
+matched for orderId: 20355
+matched for orderId: 20361
+matched for orderId: 20366
+matched for orderId: 20372
+matched for orderId: 20379
+matched for orderId: 20384
+matched for orderId: 20390
+matched for orderId: 20396
+matched for orderId: 20401
+matched for orderId: 20407
+matched for orderId: 20412
+matched for orderId: 20416
+matched for orderId: 20421
+matched for orderId: 20425
+matched for orderId: 20429
+matched for orderId: 20434
+matched for orderId: 20442
+matched for orderId: 20446
+matched for orderId: 20455
+matched for orderId: 20462
+matched for orderId: 20464
+matched for orderId: 20470
+matched for orderId: 20475
+matched for orderId: 20482
+matched for orderId: 20487
+matched for orderId: 20491
+matched for orderId: 20496
+matched for orderId: 20500
+matched for orderId: 20505
+matched for orderId: 20510
+matched for orderId: 20515
+matched for orderId: 20520
+matched for orderId: 20526
+matched for orderId: 20531
+matched for orderId: 20535
+matched for orderId: 20540
+matched for orderId: 20545
+matched for orderId: 20550
+matched for orderId: 20555
+matched for orderId: 20560
+matched for orderId: 20564
+matched for orderId: 20569
+matched for orderId: 20575
+matched for orderId: 20579
+matched for orderId: 20582
+matched for orderId: 20588
+matched for orderId: 20592
+matched for orderId: 20599
+matched for orderId: 20603
+matched for orderId: 20608
+matched for orderId: 20610
+matched for orderId: 20613
+matched for orderId: 20620
+matched for orderId: 20625
+matched for orderId: 20630
+matched for orderId: 20635
+matched for orderId: 20642
+matched for orderId: 20646
+matched for orderId: 20650
+matched for orderId: 20655
+matched for orderId: 20661
+matched for orderId: 20668
+matched for orderId: 20673
+matched for orderId: 20677
+matched for orderId: 20682
+matched for orderId: 20686
+matched for orderId: 20691
+matched for orderId: 20695
+matched for orderId: 20700
+matched for orderId: 20703
+matched for orderId: 20712
+matched for orderId: 20716
+matched for orderId: 20721
+matched for orderId: 20726
+matched for orderId: 20734
+matched for orderId: 20739
+matched for orderId: 20743
+matched for orderId: 20746
+matched for orderId: 20750
+matched for orderId: 20755
+matched for orderId: 20759
+matched for orderId: 20766
+matched for orderId: 20770
+matched for orderId: 20775
+matched for orderId: 20782
+matched for orderId: 20786
+matched for orderId: 20790
+matched for orderId: 20798
+matched for orderId: 20803
+matched for orderId: 20807
+matched for orderId: 20811
+matched for orderId: 20814
+matched for orderId: 20817
+matched for orderId: 20821
+matched for orderId: 20824
+matched for orderId: 20826
+matched for orderId: 20830
+matched for orderId: 20835
+matched for orderId: 20839
+matched for orderId: 20844
+matched for orderId: 20849
+matched for orderId: 20853
+matched for orderId: 20857
+matched for orderId: 20861
+matched for orderId: 20865
+matched for orderId: 20870
+matched for orderId: 20875
+matched for orderId: 20880
+matched for orderId: 20884
+matched for orderId: 20891
+matched for orderId: 20895
+matched for orderId: 20899
+matched for orderId: 20902
+matched for orderId: 20905
+matched for orderId: 20910
+matched for orderId: 20915
+matched for orderId: 20920
+matched for orderId: 20925
+matched for orderId: 20928
+matched for orderId: 20933
+matched for orderId: 20938
+matched for orderId: 20943
+matched for orderId: 20949
+matched for orderId: 20954
+matched for orderId: 20959
+matched for orderId: 20964
+matched for orderId: 20967
+matched for orderId: 20972
+matched for orderId: 20976
+matched for orderId: 20981
+matched for orderId: 20986
+matched for orderId: 20990
+matched for orderId: 20996
+matched for orderId: 21001
+matched for orderId: 21005
+matched for orderId: 21009
+matched for orderId: 21014
+matched for orderId: 21020
+matched for orderId: 21023
+matched for orderId: 21028
+matched for orderId: 21033
+matched for orderId: 21038
+matched for orderId: 21044
+matched for orderId: 21049
+matched for orderId: 21054
+matched for orderId: 21058
+matched for orderId: 21063
+matched for orderId: 21071
+matched for orderId: 21076
+matched for orderId: 21081
+matched for orderId: 21086
+matched for orderId: 21091
+matched for orderId: 21096
+matched for orderId: 21101
+matched for orderId: 21109
+matched for orderId: 21112
+matched for orderId: 21118
+matched for orderId: 21123
+matched for orderId: 21129
+matched for orderId: 21137
+matched for orderId: 21142
+matched for orderId: 21147
+matched for orderId: 21152
+matched for orderId: 21156
+matched for orderId: 21162
+matched for orderId: 21167
+matched for orderId: 21173
+matched for orderId: 21180
+matched for orderId: 21186
+matched for orderId: 21191
+matched for orderId: 21197
+matched for orderId: 21202
+matched for orderId: 21207
+matched for orderId: 21211
+matched for orderId: 21215
+matched for orderId: 21220
+matched for orderId: 21225
+matched for orderId: 21231
+matched for orderId: 21235
+matched for orderId: 21242
+matched for orderId: 21247
+matched for orderId: 21252
+matched for orderId: 21257
+matched for orderId: 21263
+matched for orderId: 21266
+matched for orderId: 21272
+matched for orderId: 21276
+matched for orderId: 21280
+matched for orderId: 21284
+matched for orderId: 21292
+matched for orderId: 21296
+matched for orderId: 21301
+matched for orderId: 21305
+matched for orderId: 21309
+matched for orderId: 21312
+matched for orderId: 21317
+matched for orderId: 21321
+matched for orderId: 21328
+matched for orderId: 21331
+matched for orderId: 21343
+matched for orderId: 21347
+matched for orderId: 21353
+matched for orderId: 21357
+matched for orderId: 21362
+matched for orderId: 21366
+matched for orderId: 21371
+matched for orderId: 21376
+matched for orderId: 21384
+matched for orderId: 21391
+matched for orderId: 21396
+matched for orderId: 21404
+matched for orderId: 21408
+matched for orderId: 21413
+matched for orderId: 21418
+matched for orderId: 21423
+matched for orderId: 21425
+matched for orderId: 21431
+matched for orderId: 21436
+matched for orderId: 21441
+matched for orderId: 21448
+matched for orderId: 21456
+matched for orderId: 21461
+matched for orderId: 21465
+matched for orderId: 21470
+matched for orderId: 21475
+matched for orderId: 21480
+matched for orderId: 21485
+matched for orderId: 21489
+matched for orderId: 21494
+matched for orderId: 21499
+matched for orderId: 21504
+matched for orderId: 21508
+matched for orderId: 21517
+matched for orderId: 21524
+matched for orderId: 21530
+matched for orderId: 21537
+matched for orderId: 21540
+matched for orderId: 21546
+matched for orderId: 21550
+matched for orderId: 21557
+matched for orderId: 21562
+matched for orderId: 21566
+matched for orderId: 21571
+matched for orderId: 21575
+matched for orderId: 21580
+matched for orderId: 21587
+matched for orderId: 21591
+matched for orderId: 21594
+matched for orderId: 21599
+matched for orderId: 21603
+matched for orderId: 21609
+matched for orderId: 21614
+matched for orderId: 21621
+matched for orderId: 21627
+matched for orderId: 21632
+matched for orderId: 21639
+matched for orderId: 21642
+matched for orderId: 21646
+matched for orderId: 21650
+matched for orderId: 21655
+matched for orderId: 21658
+matched for orderId: 21665
+matched for orderId: 21671
+matched for orderId: 21676
+matched for orderId: 21680
+matched for orderId: 21685
+matched for orderId: 21689
+matched for orderId: 21694
+matched for orderId: 21698
+matched for orderId: 21703
+matched for orderId: 21707
+matched for orderId: 21712
+matched for orderId: 21716
+matched for orderId: 21720
+matched for orderId: 21723
+matched for orderId: 21727
+matched for orderId: 21732
+matched for orderId: 21735
+matched for orderId: 21740
+matched for orderId: 21745
+matched for orderId: 21752
+matched for orderId: 21758
+matched for orderId: 21763
+matched for orderId: 21772
+matched for orderId: 21777
+matched for orderId: 21781
+matched for orderId: 21784
+matched for orderId: 21788
+matched for orderId: 21793
+matched for orderId: 21798
+matched for orderId: 21802
+matched for orderId: 21806
+matched for orderId: 21811
+matched for orderId: 21816
+matched for orderId: 21820
+matched for orderId: 21825
+matched for orderId: 21830
+matched for orderId: 21834
+matched for orderId: 21838
+matched for orderId: 21842
+matched for orderId: 21847
+matched for orderId: 21851
+matched for orderId: 21856
+matched for orderId: 21861
+matched for orderId: 21867
+matched for orderId: 21872
+matched for orderId: 21877
+matched for orderId: 21881
+matched for orderId: 21886
+matched for orderId: 21891
+matched for orderId: 21896
+matched for orderId: 21900
+matched for orderId: 21906
+matched for orderId: 21912
+matched for orderId: 21918
+matched for orderId: 21922
+matched for orderId: 21926
+matched for orderId: 21933
+matched for orderId: 21936
+matched for orderId: 21940
+matched for orderId: 21944
+matched for orderId: 21948
+matched for orderId: 21953
+matched for orderId: 21958
+matched for orderId: 21962
+matched for orderId: 21969
+matched for orderId: 21973
+matched for orderId: 21978
+matched for orderId: 21984
+matched for orderId: 21988
+matched for orderId: 21994
+matched for orderId: 21999
+matched for orderId: 22004
+matched for orderId: 22011
+matched for orderId: 22014
+matched for orderId: 22016
+matched for orderId: 22021
+matched for orderId: 22030
+matched for orderId: 22033
+matched for orderId: 22038
+matched for orderId: 22043
+matched for orderId: 22048
+matched for orderId: 22052
+matched for orderId: 22058
+matched for orderId: 22065
+matched for orderId: 22069
+matched for orderId: 22076
+matched for orderId: 22080
+matched for orderId: 22085
+matched for orderId: 22090
+matched for orderId: 22093
+matched for orderId: 22097
+matched for orderId: 22101
+matched for orderId: 22105
+matched for orderId: 22109
+matched for orderId: 22113
+matched for orderId: 22117
+matched for orderId: 22122
+matched for orderId: 22129
+matched for orderId: 22133
+matched for orderId: 22137
+matched for orderId: 22141
+matched for orderId: 22146
+matched for orderId: 22149
+matched for orderId: 22154
+matched for orderId: 22159
+matched for orderId: 22164
+matched for orderId: 22169
+matched for orderId: 22174
+matched for orderId: 22179
+matched for orderId: 22182
+matched for orderId: 22188
+matched for orderId: 22193
+matched for orderId: 22198
+matched for orderId: 22202
+matched for orderId: 22206
+matched for orderId: 22211
+matched for orderId: 22216
+matched for orderId: 22221
+matched for orderId: 22227
+matched for orderId: 22232
+matched for orderId: 22236
+matched for orderId: 22242
+matched for orderId: 22247
+matched for orderId: 22254
+matched for orderId: 22258
+matched for orderId: 22262
+matched for orderId: 22269
+matched for orderId: 22274
+matched for orderId: 22282
+matched for orderId: 22285
+matched for orderId: 22290
+matched for orderId: 22295
+matched for orderId: 22300
+matched for orderId: 22305
+matched for orderId: 22317
+matched for orderId: 22323
+matched for orderId: 22327
+matched for orderId: 22331
+matched for orderId: 22336
+matched for orderId: 22341
+matched for orderId: 22345
+matched for orderId: 22351
+matched for orderId: 22356
+matched for orderId: 22360
+matched for orderId: 22366
+matched for orderId: 22371
+matched for orderId: 22376
+matched for orderId: 22381
+matched for orderId: 22385
+matched for orderId: 22387
+matched for orderId: 22390
+matched for orderId: 22392
+matched for orderId: 22396
+matched for orderId: 22403
+matched for orderId: 22408
+matched for orderId: 22412
+matched for orderId: 22417
+matched for orderId: 22420
+matched for orderId: 22425
+matched for orderId: 22430
+matched for orderId: 22433
+matched for orderId: 22438
+matched for orderId: 22443
+matched for orderId: 22448
+matched for orderId: 22453
+matched for orderId: 22457
+matched for orderId: 22462
+matched for orderId: 22464
+matched for orderId: 22469
+matched for orderId: 22473
+matched for orderId: 22478
+matched for orderId: 22483
+matched for orderId: 22489
+matched for orderId: 22494
+matched for orderId: 22499
+matched for orderId: 22504
+matched for orderId: 22507
+matched for orderId: 22512
+matched for orderId: 22517
+matched for orderId: 22520
+matched for orderId: 22526
+matched for orderId: 22540
+matched for orderId: 22546
+matched for orderId: 22550
+matched for orderId: 22554
+matched for orderId: 22560
+matched for orderId: 22564
+matched for orderId: 22569
+matched for orderId: 22573
+matched for orderId: 22577
+matched for orderId: 22583
+matched for orderId: 22590
+matched for orderId: 22594
+matched for orderId: 22599
+matched for orderId: 22603
+matched for orderId: 22608
+matched for orderId: 22613
+matched for orderId: 22618
+matched for orderId: 22623
+matched for orderId: 22630
+matched for orderId: 22636
+Average  query latency is ->  0.08339908361434936
+Average  Buy latency is ->  0.17150049671282747
+Average  Order Lookup latency is ->  0.0845561914833519

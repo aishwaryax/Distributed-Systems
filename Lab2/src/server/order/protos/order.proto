@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package order;
+
+message BuyRequest {
+  string ToyName = 3;
+  int32 ToyQuantity = 2;
+}
+
+message BuyResponse {
+  int32 OrderNumber = 2;
+  string Message = 1;
+}
+
+service Order {
+  rpc buyOrder(BuyRequest) returns (BuyResponse);
+}

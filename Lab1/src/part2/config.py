@@ -1,0 +1,3 @@
+SERVER_HOST = "localhost"
+ITERS = 100
+PORT = 8080

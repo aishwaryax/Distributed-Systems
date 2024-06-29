@@ -1,0 +1,4 @@
+The Catalog server is running.
+Received Order with Item Name Tux and quantity 2
+Processing Order with Item Name Tux and quantity 2
+Clear cache status :  True
